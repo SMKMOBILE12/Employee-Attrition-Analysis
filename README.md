@@ -59,8 +59,8 @@ The dataset contains employee demographic information, departmental data, educat
 | File Name                       | Description                                                            |
 | ------------------------------- | ---------------------------------------------------------------------- |
 | `HR_Analytics_Dataset.csv`      | Raw HR dataset used for cleaning and analysis                          |
-| `hr_attrition.sql`              | SQL queries for data cleaning, preprocessing, and exploratory analysis |
-| `HR_Attrition_Report.pbix`      | Interactive Power BI dashboard file                                    |
+| `hr_analytics.sql`              | SQL queries for data cleaning, preprocessing, and exploratory analysis |
+| `hr_analytics.pbix`      | Interactive Power BI dashboard file                                    |
 | `HR_Attrition_Presentation.ppt` | PowerPoint slide deck summarizing project findings                     |
 
 

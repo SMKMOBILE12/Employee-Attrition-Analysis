@@ -1,0 +1,1501 @@
+﻿EmployeeID,Name,Gender,Age,Department,EducationLevel,EducationField,JobRole,MonthlyIncome,YearsAtCompany,YearsInCurrentRole,PerformanceRating,Attrition,TrainingTimesLastYear
+10001,Employee_0,Female,50,Marketing,PhD,Medical,Executive,182876,21,7,4,No,8
+10002,Employee_1,Male,36,Operations,Masters,Life Sciences,Coordinator,94288,9,19,4,No,7
+10003,Employee_2,Male,29,Sales,Masters,Other,Executive,81195,20,5,4,No,3
+10004,Employee_3,Male,42,Finance,High School,Human Resources,Analyst,211002,11,2,3,Yes,4
+10005,Employee_4,Female,40,Marketing,High School,Medical,Assistant,194053,14,12,3,No,4
+10006,Employee_5,Female,44,Sales,PhD,Human Resources,Coordinator,99298,20,12,5,No,5
+10007,Employee_6,Female,32,Sales,Bachelors,Technical Degree,Assistant,236376,9,1,4,Yes,2
+10008,Employee_7,Male,32,Marketing,Bachelors,Technical Degree,Engineer,69499,13,4,1,No,4
+10009,Employee_8,Male,45,IT,PhD,Marketing,Analyst,199631,12,16,3,No,1
+10010,Employee_9,Male,57,IT,High School,Technical Degree,Manager,275198,4,5,3,No,9
+10011,Employee_10,Male,45,Finance,High School,Marketing,Engineer,272997,5,1,5,No,0
+10012,Employee_11,Female,24,Finance,Bachelors,Technical Degree,Assistant,126347,23,3,3,No,0
+10013,Employee_12,Male,43,Marketing,Masters,Technical Degree,Coordinator,235735,1,10,3,Yes,9
+10014,Employee_13,Male,23,Operations,Masters,Medical,Engineer,52431,21,7,5,No,6
+10015,Employee_14,Female,45,IT,PhD,Technical Degree,Engineer,224555,16,11,4,No,1
+10016,Employee_15,Female,51,Marketing,High School,Life Sciences,Analyst,152720,3,7,5,No,3
+10017,Employee_16,Male,59,Finance,Masters,Technical Degree,Engineer,79153,13,10,3,No,4
+10018,Employee_17,Female,23,Finance,Masters,Life Sciences,Engineer,298512,9,19,4,No,6
+10019,Employee_18,Female,42,IT,Bachelors,Other,Manager,206076,2,7,2,No,1
+10020,Employee_19,Male,54,Finance,High School,Life Sciences,Assistant,249724,24,7,2,No,5
+10021,Employee_20,Female,33,HR,PhD,Other,Engineer,86985,2,16,4,No,0
+10022,Employee_21,Female,43,Sales,High School,Medical,Manager,138737,14,19,3,No,6
+10023,Employee_22,Male,46,Marketing,PhD,Marketing,Assistant,242133,5,19,4,No,8
+10024,Employee_23,Male,48,IT,High School,Life Sciences,Executive,184470,16,15,4,No,4
+10025,Employee_24,Female,49,IT,High School,Technical Degree,Executive,259465,11,13,4,No,4
+10026,Employee_25,Male,37,Finance,High School,Other,Executive,80861,21,10,3,No,3
+10027,Employee_26,Male,36,HR,High School,Technical Degree,Coordinator,242977,19,6,4,No,2
+10028,Employee_27,Male,24,HR,Masters,Technical Degree,Manager,157118,23,15,3,No,8
+10029,Employee_28,Female,58,IT,Masters,Human Resources,Manager,226713,28,12,4,No,4
+10030,Employee_29,Female,28,Operations,Masters,Medical,Analyst,39078,10,14,3,Yes,7
+10031,Employee_30,Female,42,HR,Bachelors,Marketing,Analyst,81047,24,15,3,Yes,8
+10032,Employee_31,Female,30,Operations,Bachelors,Technical Degree,Coordinator,265458,3,8,2,No,4
+10033,Employee_32,Female,39,IT,High School,Life Sciences,Assistant,245048,25,2,3,No,9
+10034,Employee_33,Female,25,Sales,High School,Other,Engineer,266293,27,18,4,No,8
+10035,Employee_34,Male,46,Operations,Masters,Medical,Assistant,147832,25,19,3,Yes,1
+10036,Employee_35,Female,35,IT,PhD,Marketing,Assistant,155150,5,4,2,No,8
+10037,Employee_36,Female,30,Operations,High School,Other,Assistant,187087,0,9,5,No,3
+10038,Employee_37,Female,47,IT,Bachelors,Life Sciences,Engineer,63320,19,16,4,No,5
+10039,Employee_38,Female,23,Sales,Bachelors,Human Resources,Manager,120827,22,14,4,No,5
+10040,Employee_39,Female,41,Marketing,Bachelors,Life Sciences,Executive,289931,27,7,4,Yes,5
+10041,Employee_40,Female,49,Operations,Masters,Technical Degree,Manager,54826,15,14,5,Yes,1
+10042,Employee_41,Male,28,HR,Masters,Other,Engineer,130734,14,13,2,No,6
+10043,Employee_42,Male,29,IT,High School,Marketing,Coordinator,187702,16,19,2,No,5
+10044,Employee_43,Male,56,Sales,High School,Marketing,Executive,259834,7,6,1,Yes,0
+10045,Employee_44,Male,35,Finance,High School,Human Resources,Analyst,207235,27,11,3,No,1
+10046,Employee_45,Male,38,Operations,Bachelors,Human Resources,Executive,128511,25,16,3,No,6
+10047,Employee_46,Male,57,Operations,High School,Medical,Engineer,189033,11,16,3,Yes,0
+10048,Employee_47,Male,25,Marketing,PhD,Life Sciences,Coordinator,111941,26,9,3,Yes,0
+10049,Employee_48,Female,23,Operations,Bachelors,Life Sciences,Assistant,235209,21,18,5,No,0
+10050,Employee_49,Male,27,Finance,Bachelors,Medical,Engineer,128818,20,13,4,No,7
+10051,Employee_50,Male,25,Marketing,Bachelors,Other,Executive,182360,9,10,3,No,3
+10052,Employee_51,Male,50,Finance,Masters,Other,Engineer,283627,26,1,4,No,3
+10053,Employee_52,Male,39,Sales,High School,Life Sciences,Manager,125081,14,17,5,No,1
+10054,Employee_53,Female,47,HR,Masters,Human Resources,Engineer,66877,29,6,5,No,0
+10055,Employee_54,Female,55,Sales,High School,Technical Degree,Analyst,241957,8,11,4,Yes,9
+10056,Employee_55,Female,31,Marketing,PhD,Medical,Coordinator,102715,1,1,4,Yes,8
+10057,Employee_56,Male,57,Sales,Bachelors,Technical Degree,Manager,171398,4,19,5,No,6
+10058,Employee_57,Female,35,Finance,Bachelors,Medical,Analyst,140091,5,17,1,Yes,3
+10059,Employee_58,Male,52,IT,Bachelors,Technical Degree,Manager,162632,6,5,3,No,5
+10060,Employee_59,Male,36,Marketing,Bachelors,Medical,Manager,113186,20,9,5,No,1
+10061,Employee_60,Female,29,Finance,High School,Human Resources,Manager,192962,24,19,4,No,6
+10062,Employee_61,Female,35,Finance,Bachelors,Marketing,Engineer,181094,0,14,3,No,1
+10063,Employee_62,Female,44,Sales,High School,Life Sciences,Engineer,100316,22,4,3,Yes,9
+10064,Employee_63,Female,42,HR,PhD,Technical Degree,Manager,58380,25,19,4,No,7
+10065,Employee_64,Female,37,Operations,Masters,Marketing,Engineer,140198,6,2,4,No,7
+10066,Employee_65,Female,39,Marketing,High School,Marketing,Engineer,294500,19,4,4,No,0
+10067,Employee_66,Male,45,Finance,Bachelors,Technical Degree,Manager,100326,24,7,4,No,7
+10068,Employee_67,Male,47,Marketing,Masters,Other,Manager,144994,29,7,4,No,1
+10069,Employee_68,Male,46,Marketing,PhD,Medical,Engineer,250971,11,7,2,No,5
+10070,Employee_69,Male,50,Sales,Masters,Medical,Assistant,292805,15,11,3,No,0
+10071,Employee_70,Male,36,Operations,Masters,Marketing,Manager,198484,15,7,3,No,4
+10072,Employee_71,Female,22,Finance,PhD,Marketing,Manager,295064,10,10,4,No,6
+10073,Employee_72,Female,46,IT,PhD,Life Sciences,Analyst,275378,20,13,4,No,9
+10074,Employee_73,Male,28,Marketing,Bachelors,Other,Manager,255314,3,7,4,No,0
+10075,Employee_74,Female,30,IT,Masters,Marketing,Engineer,265612,12,9,4,No,1
+10076,Employee_75,Male,45,Operations,PhD,Marketing,Engineer,85230,6,6,4,No,6
+10077,Employee_76,Female,22,Marketing,Bachelors,Medical,Engineer,89321,3,16,4,No,5
+10078,Employee_77,Male,29,Finance,PhD,Other,Coordinator,162028,14,3,4,Yes,2
+10079,Employee_78,Male,45,HR,Bachelors,Medical,Analyst,261447,18,12,4,No,9
+10080,Employee_79,Male,32,Operations,High School,Marketing,Coordinator,131757,8,3,3,No,1
+10081,Employee_80,Female,38,IT,PhD,Human Resources,Analyst,296847,10,4,3,Yes,9
+10082,Employee_81,Male,29,Operations,Masters,Marketing,Executive,226200,7,3,4,No,3
+10083,Employee_82,Female,56,Sales,Masters,Human Resources,Manager,102099,0,17,4,Yes,2
+10084,Employee_83,Female,56,Sales,PhD,Technical Degree,Coordinator,192932,22,5,3,No,6
+10085,Employee_84,Male,54,Sales,PhD,Technical Degree,Coordinator,61585,24,1,4,No,7
+10086,Employee_85,Male,26,Sales,Masters,Medical,Coordinator,73585,23,10,4,Yes,1
+10087,Employee_86,Female,49,HR,Masters,Human Resources,Executive,206313,7,13,3,No,9
+10088,Employee_87,Female,28,Marketing,High School,Other,Manager,72229,12,4,4,No,6
+10089,Employee_88,Male,30,IT,PhD,Medical,Assistant,116652,21,5,2,No,7
+10090,Employee_89,Male,29,Operations,High School,Other,Engineer,279474,26,9,5,No,5
+10091,Employee_90,Male,33,Operations,PhD,Marketing,Analyst,209436,3,7,1,Yes,5
+10092,Employee_91,Female,55,Operations,PhD,Marketing,Assistant,290116,7,13,4,No,9
+10093,Employee_92,Female,54,HR,PhD,Human Resources,Manager,49975,2,2,5,No,0
+10094,Employee_93,Male,44,Finance,High School,Other,Assistant,187795,28,11,3,No,3
+10095,Employee_94,Male,45,Finance,Bachelors,Technical Degree,Manager,239373,8,15,3,No,0
+10096,Employee_95,Male,58,Sales,PhD,Technical Degree,Analyst,227133,28,16,4,Yes,3
+10097,Employee_96,Female,56,HR,Bachelors,Other,Analyst,210225,1,0,3,No,1
+10098,Employee_97,Female,43,Finance,PhD,Medical,Analyst,94324,1,9,4,No,4
+10099,Employee_98,Female,48,Finance,Masters,Medical,Coordinator,206037,27,9,4,No,9
+10100,Employee_99,Female,56,HR,PhD,Medical,Assistant,165720,12,1,3,No,8
+10101,Employee_100,Male,22,Operations,Bachelors,Other,Coordinator,196205,14,8,1,No,9
+10102,Employee_101,Female,56,Sales,PhD,Life Sciences,Manager,126059,27,12,4,No,2
+10103,Employee_102,Female,58,Finance,PhD,Human Resources,Analyst,128317,22,15,5,No,7
+10104,Employee_103,Female,35,Marketing,High School,Human Resources,Assistant,231207,11,17,2,Yes,2
+10105,Employee_104,Male,24,Finance,Bachelors,Medical,Engineer,131459,25,18,5,Yes,5
+10106,Employee_105,Female,22,Operations,Bachelors,Technical Degree,Executive,267697,3,11,3,No,3
+10107,Employee_106,Male,26,Finance,Bachelors,Technical Degree,Assistant,230422,25,7,4,No,7
+10108,Employee_107,Male,47,Marketing,Bachelors,Other,Executive,131520,7,16,4,No,5
+10109,Employee_108,Male,35,Sales,Bachelors,Life Sciences,Coordinator,91272,8,14,4,Yes,7
+10110,Employee_109,Female,48,Sales,PhD,Life Sciences,Analyst,253224,22,9,5,No,0
+10111,Employee_110,Female,30,Finance,PhD,Marketing,Executive,174832,4,14,5,No,5
+10112,Employee_111,Male,36,Finance,Masters,Life Sciences,Executive,182999,23,14,3,No,0
+10113,Employee_112,Female,36,Finance,Masters,Marketing,Analyst,91367,19,6,3,No,0
+10114,Employee_113,Male,47,Marketing,Bachelors,Technical Degree,Analyst,259027,17,12,4,No,7
+10115,Employee_114,Female,34,IT,Bachelors,Medical,Manager,262750,10,16,3,No,6
+10116,Employee_115,Female,53,Finance,High School,Human Resources,Coordinator,265806,14,8,2,Yes,2
+10117,Employee_116,Male,53,IT,Masters,Life Sciences,Manager,213305,27,7,4,No,5
+10118,Employee_117,Female,25,Finance,PhD,Marketing,Manager,74738,21,19,4,No,8
+10119,Employee_118,Female,51,HR,PhD,Other,Manager,63397,8,17,5,No,6
+10120,Employee_119,Male,58,Operations,PhD,Human Resources,Engineer,232332,16,12,2,No,2
+10121,Employee_120,Female,44,IT,Masters,Human Resources,Engineer,141453,26,15,2,No,5
+10122,Employee_121,Female,36,Marketing,High School,Human Resources,Assistant,49816,25,8,4,Yes,3
+10123,Employee_122,Female,50,Marketing,Bachelors,Medical,Manager,275011,11,11,1,Yes,2
+10124,Employee_123,Female,57,HR,Masters,Human Resources,Analyst,243567,6,11,4,No,8
+10125,Employee_124,Male,34,Sales,Bachelors,Human Resources,Manager,101635,9,5,4,No,9
+10126,Employee_125,Male,53,Sales,Bachelors,Technical Degree,Analyst,246184,24,18,2,No,1
+10127,Employee_126,Male,28,IT,Bachelors,Other,Assistant,212958,25,6,2,No,0
+10128,Employee_127,Female,43,IT,Bachelors,Technical Degree,Analyst,122324,24,2,5,No,1
+10129,Employee_128,Female,49,HR,Masters,Medical,Coordinator,253536,9,15,3,No,6
+10130,Employee_129,Female,23,Finance,High School,Human Resources,Executive,262944,26,17,3,No,9
+10131,Employee_130,Male,27,HR,Bachelors,Technical Degree,Assistant,56155,12,15,4,No,0
+10132,Employee_131,Male,49,Marketing,High School,Life Sciences,Analyst,146891,18,6,2,Yes,5
+10133,Employee_132,Female,49,Marketing,Masters,Life Sciences,Coordinator,179381,10,3,1,No,6
+10134,Employee_133,Female,41,Operations,Masters,Human Resources,Analyst,161691,12,7,4,No,8
+10135,Employee_134,Male,51,Operations,High School,Marketing,Manager,64707,20,12,2,No,7
+10136,Employee_135,Male,32,Sales,PhD,Human Resources,Coordinator,227576,7,12,5,Yes,5
+10137,Employee_136,Male,49,IT,Bachelors,Marketing,Executive,208686,7,16,3,No,2
+10138,Employee_137,Female,46,Finance,High School,Other,Engineer,252500,3,16,2,No,7
+10139,Employee_138,Female,54,HR,Masters,Other,Analyst,292425,14,4,2,No,6
+10140,Employee_139,Male,22,IT,PhD,Medical,Coordinator,188492,27,5,4,No,2
+10141,Employee_140,Male,48,HR,PhD,Technical Degree,Executive,200102,10,18,4,Yes,8
+10142,Employee_141,Female,34,HR,High School,Technical Degree,Manager,247285,10,12,2,No,1
+10143,Employee_142,Male,24,Sales,PhD,Life Sciences,Executive,189476,0,13,5,No,2
+10144,Employee_143,Female,27,HR,Bachelors,Human Resources,Assistant,264554,16,3,5,No,1
+10145,Employee_144,Male,29,IT,Bachelors,Marketing,Manager,190928,14,6,2,No,0
+10146,Employee_145,Male,48,Finance,Bachelors,Medical,Manager,170272,19,7,3,Yes,3
+10147,Employee_146,Female,30,HR,Masters,Life Sciences,Executive,149273,5,12,3,No,4
+10148,Employee_147,Female,58,Operations,High School,Technical Degree,Assistant,202307,23,5,4,No,5
+10149,Employee_148,Male,54,Sales,PhD,Life Sciences,Manager,278500,21,5,4,Yes,4
+10150,Employee_149,Male,45,HR,High School,Technical Degree,Coordinator,196129,27,2,4,No,0
+10151,Employee_150,Female,36,Finance,PhD,Medical,Coordinator,162311,24,2,5,No,2
+10152,Employee_151,Female,53,HR,Bachelors,Life Sciences,Manager,264746,14,12,4,No,0
+10153,Employee_152,Male,53,Marketing,PhD,Human Resources,Coordinator,275546,8,1,4,No,4
+10154,Employee_153,Female,45,IT,Bachelors,Marketing,Executive,226733,13,15,4,No,4
+10155,Employee_154,Male,33,Finance,Bachelors,Marketing,Assistant,156945,17,5,3,No,5
+10156,Employee_155,Male,23,IT,Masters,Technical Degree,Coordinator,75272,25,7,1,No,7
+10157,Employee_156,Male,24,HR,High School,Technical Degree,Manager,176470,16,7,2,No,9
+10158,Employee_157,Female,58,Sales,High School,Medical,Coordinator,150030,17,5,2,Yes,0
+10159,Employee_158,Male,38,Operations,PhD,Medical,Engineer,36570,4,13,3,No,3
+10160,Employee_159,Male,23,Finance,Masters,Marketing,Analyst,39110,19,2,4,Yes,9
+10161,Employee_160,Male,23,Operations,PhD,Life Sciences,Engineer,109141,19,9,4,No,0
+10162,Employee_161,Female,49,HR,PhD,Life Sciences,Assistant,42115,8,2,5,Yes,8
+10163,Employee_162,Male,44,IT,PhD,Technical Degree,Analyst,69062,10,11,5,No,6
+10164,Employee_163,Female,58,Sales,Masters,Life Sciences,Engineer,134061,23,16,4,No,6
+10165,Employee_164,Female,53,IT,High School,Marketing,Assistant,31969,21,4,4,No,4
+10166,Employee_165,Male,54,Operations,Bachelors,Life Sciences,Executive,151863,0,19,4,Yes,6
+10167,Employee_166,Male,22,Finance,Masters,Technical Degree,Executive,153008,17,8,3,No,1
+10168,Employee_167,Female,40,IT,High School,Human Resources,Assistant,184268,5,19,5,No,3
+10169,Employee_168,Male,23,Finance,PhD,Life Sciences,Executive,135823,26,6,4,Yes,6
+10170,Employee_169,Male,47,Operations,PhD,Life Sciences,Executive,140677,1,3,4,No,2
+10171,Employee_170,Female,53,IT,High School,Technical Degree,Analyst,276958,14,12,4,No,1
+10172,Employee_171,Female,27,Operations,High School,Marketing,Engineer,78320,28,12,3,Yes,9
+10173,Employee_172,Male,53,Marketing,PhD,Technical Degree,Manager,176649,25,9,4,No,1
+10174,Employee_173,Female,25,Marketing,PhD,Medical,Analyst,155354,20,17,4,No,0
+10175,Employee_174,Female,32,IT,High School,Technical Degree,Executive,118009,13,16,2,No,4
+10176,Employee_175,Male,38,IT,Bachelors,Human Resources,Assistant,287437,4,19,3,No,5
+10177,Employee_176,Male,59,Finance,PhD,Medical,Manager,58625,5,19,5,Yes,5
+10178,Employee_177,Male,45,HR,Masters,Life Sciences,Manager,242112,5,12,4,No,8
+10179,Employee_178,Male,26,Finance,Bachelors,Human Resources,Manager,66487,29,16,4,No,3
+10180,Employee_179,Male,55,Sales,PhD,Medical,Manager,258071,21,3,5,No,0
+10181,Employee_180,Female,27,Finance,Masters,Other,Engineer,203895,29,0,2,No,5
+10182,Employee_181,Female,43,Marketing,Masters,Life Sciences,Coordinator,131376,17,0,4,No,4
+10183,Employee_182,Female,32,HR,High School,Human Resources,Executive,273341,13,14,3,Yes,9
+10184,Employee_183,Male,37,Operations,High School,Marketing,Engineer,188056,9,12,5,No,5
+10185,Employee_184,Male,54,Marketing,Bachelors,Marketing,Manager,140169,13,16,3,Yes,2
+10186,Employee_185,Male,30,Sales,Masters,Medical,Assistant,66059,12,7,5,No,1
+10187,Employee_186,Female,27,Operations,High School,Technical Degree,Manager,133409,29,17,3,No,5
+10188,Employee_187,Male,37,IT,PhD,Life Sciences,Manager,35704,2,12,4,No,0
+10189,Employee_188,Male,50,Marketing,Masters,Medical,Engineer,234456,29,13,3,No,6
+10190,Employee_189,Male,24,IT,Bachelors,Other,Engineer,248200,5,7,5,No,6
+10191,Employee_190,Male,41,Operations,High School,Technical Degree,Engineer,141279,28,7,4,No,9
+10192,Employee_191,Male,57,Marketing,PhD,Other,Analyst,188280,7,14,4,No,6
+10193,Employee_192,Male,40,HR,Masters,Marketing,Assistant,148516,11,12,3,No,9
+10194,Employee_193,Female,47,Finance,Masters,Life Sciences,Executive,227096,12,6,4,No,0
+10195,Employee_194,Male,24,Finance,Bachelors,Life Sciences,Analyst,262549,10,4,5,No,3
+10196,Employee_195,Female,40,Sales,Bachelors,Human Resources,Executive,59165,11,16,4,No,6
+10197,Employee_196,Female,41,Sales,High School,Medical,Coordinator,97203,0,15,5,Yes,8
+10198,Employee_197,Male,53,HR,Masters,Marketing,Assistant,296258,16,1,2,Yes,4
+10199,Employee_198,Female,28,IT,PhD,Human Resources,Coordinator,66321,15,17,2,No,1
+10200,Employee_199,Female,54,IT,PhD,Other,Manager,275014,10,16,4,Yes,6
+10201,Employee_200,Female,39,Finance,Masters,Life Sciences,Executive,186498,12,6,3,No,9
+10202,Employee_201,Female,22,Finance,Masters,Life Sciences,Coordinator,47772,17,12,4,No,0
+10203,Employee_202,Female,32,HR,Bachelors,Other,Executive,295856,10,17,3,No,6
+10204,Employee_203,Male,49,Finance,Bachelors,Other,Analyst,268389,27,13,4,No,5
+10205,Employee_204,Male,46,Sales,High School,Other,Executive,145142,11,17,4,No,6
+10206,Employee_205,Male,44,Operations,PhD,Human Resources,Executive,121736,5,12,2,No,9
+10207,Employee_206,Male,52,Marketing,PhD,Life Sciences,Manager,81924,8,10,4,No,2
+10208,Employee_207,Male,51,HR,High School,Human Resources,Assistant,33726,15,15,4,No,2
+10209,Employee_208,Male,56,IT,PhD,Life Sciences,Coordinator,57723,3,16,3,No,6
+10210,Employee_209,Female,28,Marketing,Masters,Marketing,Analyst,264182,2,7,4,No,1
+10211,Employee_210,Male,37,Finance,Masters,Life Sciences,Engineer,170180,27,18,5,No,0
+10212,Employee_211,Female,47,Marketing,High School,Medical,Executive,238786,15,19,3,No,8
+10213,Employee_212,Male,23,HR,Bachelors,Technical Degree,Manager,65643,23,14,1,Yes,8
+10214,Employee_213,Male,22,Marketing,PhD,Medical,Engineer,192396,26,8,2,No,6
+10215,Employee_214,Female,33,IT,Bachelors,Technical Degree,Executive,244432,25,19,5,No,6
+10216,Employee_215,Female,26,Marketing,PhD,Medical,Manager,169999,29,9,3,No,2
+10217,Employee_216,Female,58,Operations,Masters,Marketing,Engineer,109973,24,11,4,No,9
+10218,Employee_217,Female,53,Finance,Bachelors,Human Resources,Assistant,139834,11,19,4,No,1
+10219,Employee_218,Male,30,Marketing,Bachelors,Life Sciences,Engineer,266386,10,0,2,No,6
+10220,Employee_219,Male,56,Marketing,Bachelors,Human Resources,Assistant,137522,4,19,4,Yes,8
+10221,Employee_220,Female,40,Marketing,Bachelors,Life Sciences,Executive,52612,24,8,3,No,0
+10222,Employee_221,Female,37,Sales,Bachelors,Technical Degree,Coordinator,255049,17,14,5,No,3
+10223,Employee_222,Female,24,IT,Masters,Technical Degree,Assistant,298615,18,0,2,Yes,5
+10224,Employee_223,Female,41,Operations,PhD,Life Sciences,Executive,196703,22,11,5,No,6
+10225,Employee_224,Male,45,Marketing,Bachelors,Medical,Executive,270069,22,2,5,No,9
+10226,Employee_225,Female,54,Marketing,High School,Medical,Coordinator,253131,5,10,2,No,6
+10227,Employee_226,Female,45,Finance,Masters,Human Resources,Assistant,61348,21,1,1,No,9
+10228,Employee_227,Female,32,Marketing,Masters,Technical Degree,Executive,225804,17,15,2,No,1
+10229,Employee_228,Male,29,Finance,PhD,Life Sciences,Coordinator,293321,25,8,3,Yes,3
+10230,Employee_229,Female,57,HR,Bachelors,Technical Degree,Analyst,165832,5,14,4,No,4
+10231,Employee_230,Male,59,Finance,Masters,Life Sciences,Manager,111889,3,11,3,Yes,0
+10232,Employee_231,Male,41,Finance,Masters,Marketing,Manager,83551,11,0,2,No,0
+10233,Employee_232,Female,56,Operations,Bachelors,Medical,Coordinator,172635,18,12,4,No,9
+10234,Employee_233,Female,46,Sales,High School,Other,Executive,76819,28,13,4,No,2
+10235,Employee_234,Male,56,Marketing,High School,Technical Degree,Engineer,242781,26,7,2,No,9
+10236,Employee_235,Male,46,Sales,PhD,Other,Manager,188059,28,7,3,No,2
+10237,Employee_236,Female,50,Operations,Masters,Life Sciences,Coordinator,219420,1,11,3,No,7
+10238,Employee_237,Male,39,Sales,PhD,Other,Executive,54596,16,0,1,Yes,8
+10239,Employee_238,Female,39,Sales,Bachelors,Technical Degree,Manager,89182,10,10,4,No,0
+10240,Employee_239,Female,23,HR,Masters,Medical,Executive,158803,10,7,3,No,1
+10241,Employee_240,Male,56,Sales,PhD,Marketing,Executive,169978,20,9,4,No,9
+10242,Employee_241,Female,37,Marketing,Bachelors,Other,Executive,75379,15,18,5,No,1
+10243,Employee_242,Female,57,IT,High School,Life Sciences,Assistant,275900,1,10,4,No,3
+10244,Employee_243,Female,54,Marketing,PhD,Medical,Analyst,288517,1,6,4,No,1
+10245,Employee_244,Male,25,Operations,PhD,Other,Assistant,167084,22,10,4,No,6
+10246,Employee_245,Female,54,Operations,PhD,Technical Degree,Assistant,211187,7,16,5,No,8
+10247,Employee_246,Male,35,Marketing,PhD,Medical,Coordinator,299295,12,0,3,No,6
+10248,Employee_247,Male,42,Sales,Masters,Technical Degree,Manager,87716,9,7,3,No,5
+10249,Employee_248,Female,41,Sales,Masters,Marketing,Analyst,253725,7,5,1,No,9
+10250,Employee_249,Male,29,HR,Masters,Other,Executive,197450,29,17,1,Yes,0
+10251,Employee_250,Male,28,HR,Masters,Life Sciences,Manager,203724,3,5,4,Yes,9
+10252,Employee_251,Female,24,Finance,Masters,Medical,Analyst,233502,14,4,4,No,8
+10253,Employee_252,Male,38,Finance,PhD,Technical Degree,Executive,174539,29,12,5,No,4
+10254,Employee_253,Male,54,HR,Bachelors,Marketing,Coordinator,151999,0,18,3,No,4
+10255,Employee_254,Female,33,HR,Bachelors,Marketing,Assistant,144793,10,7,3,No,5
+10256,Employee_255,Female,43,Operations,Bachelors,Life Sciences,Coordinator,42289,6,8,2,No,8
+10257,Employee_256,Male,43,IT,High School,Marketing,Analyst,206048,16,16,3,No,7
+10258,Employee_257,Male,51,IT,Masters,Marketing,Engineer,204668,26,2,5,No,7
+10259,Employee_258,Male,59,Marketing,Masters,Technical Degree,Assistant,261513,19,18,3,No,7
+10260,Employee_259,Female,59,Marketing,High School,Medical,Coordinator,287368,23,10,3,No,0
+10261,Employee_260,Female,29,Finance,Masters,Other,Executive,116365,17,16,4,Yes,0
+10262,Employee_261,Female,48,Marketing,High School,Technical Degree,Executive,260662,21,18,3,No,7
+10263,Employee_262,Male,48,Finance,Masters,Human Resources,Assistant,205211,28,1,5,No,4
+10264,Employee_263,Male,55,HR,PhD,Technical Degree,Engineer,209785,21,7,4,No,8
+10265,Employee_264,Female,42,HR,PhD,Other,Manager,102588,11,18,5,No,1
+10266,Employee_265,Female,51,Finance,Masters,Other,Engineer,93646,8,6,2,Yes,8
+10267,Employee_266,Female,54,HR,Masters,Human Resources,Executive,295798,4,16,2,No,7
+10268,Employee_267,Female,49,Operations,PhD,Life Sciences,Assistant,251097,9,5,3,No,8
+10269,Employee_268,Female,54,HR,PhD,Technical Degree,Engineer,235244,3,18,2,Yes,3
+10270,Employee_269,Male,26,HR,PhD,Medical,Executive,149735,4,5,3,No,0
+10271,Employee_270,Female,40,HR,High School,Life Sciences,Assistant,185683,27,1,4,No,0
+10272,Employee_271,Male,25,Marketing,High School,Other,Executive,137971,27,5,3,No,4
+10273,Employee_272,Female,56,HR,High School,Technical Degree,Executive,42149,9,4,3,Yes,1
+10274,Employee_273,Female,38,IT,Bachelors,Life Sciences,Executive,268976,10,18,4,No,7
+10275,Employee_274,Male,49,Operations,PhD,Marketing,Coordinator,72668,20,19,5,No,9
+10276,Employee_275,Male,51,Marketing,PhD,Other,Engineer,118204,23,3,2,No,4
+10277,Employee_276,Male,50,HR,High School,Technical Degree,Coordinator,241830,9,16,3,No,4
+10278,Employee_277,Female,27,Sales,Masters,Technical Degree,Assistant,226501,27,10,3,No,1
+10279,Employee_278,Male,56,Marketing,Bachelors,Medical,Analyst,195140,7,3,2,No,6
+10280,Employee_279,Female,58,IT,High School,Medical,Manager,249861,1,12,3,No,7
+10281,Employee_280,Female,45,Operations,Bachelors,Life Sciences,Coordinator,170507,22,19,3,No,9
+10282,Employee_281,Male,50,Marketing,Masters,Other,Executive,255160,7,16,3,No,0
+10283,Employee_282,Female,52,Operations,Bachelors,Other,Analyst,213321,15,8,4,No,1
+10284,Employee_283,Male,56,Marketing,PhD,Medical,Engineer,67384,26,3,2,Yes,9
+10285,Employee_284,Male,54,HR,Bachelors,Technical Degree,Manager,111929,21,13,5,No,3
+10286,Employee_285,Female,42,HR,Bachelors,Medical,Coordinator,106153,4,18,4,No,4
+10287,Employee_286,Female,53,Marketing,Bachelors,Life Sciences,Manager,265128,26,2,3,No,1
+10288,Employee_287,Male,44,IT,PhD,Technical Degree,Executive,105388,24,13,2,Yes,0
+10289,Employee_288,Male,54,IT,Bachelors,Human Resources,Manager,61401,28,7,3,No,8
+10290,Employee_289,Male,24,HR,PhD,Other,Engineer,232903,2,0,3,No,0
+10291,Employee_290,Male,39,IT,Masters,Medical,Executive,149503,11,9,4,Yes,3
+10292,Employee_291,Female,46,HR,PhD,Human Resources,Analyst,262601,12,17,5,No,1
+10293,Employee_292,Female,52,Finance,High School,Technical Degree,Engineer,157834,12,15,2,No,3
+10294,Employee_293,Male,24,Operations,PhD,Life Sciences,Assistant,64084,9,7,4,Yes,7
+10295,Employee_294,Female,45,Marketing,Masters,Other,Analyst,281459,3,0,5,No,7
+10296,Employee_295,Female,53,Sales,PhD,Other,Engineer,140641,8,11,5,No,8
+10297,Employee_296,Male,43,Finance,Bachelors,Life Sciences,Executive,135111,21,7,2,No,4
+10298,Employee_297,Male,44,Finance,Bachelors,Other,Assistant,168299,23,15,5,No,6
+10299,Employee_298,Male,23,HR,High School,Other,Analyst,192982,22,17,4,No,2
+10300,Employee_299,Female,48,Marketing,PhD,Medical,Executive,264386,26,3,5,No,9
+10301,Employee_300,Female,23,Finance,High School,Technical Degree,Assistant,226553,1,5,4,No,3
+10302,Employee_301,Female,47,Finance,High School,Other,Executive,290337,18,11,4,No,9
+10303,Employee_302,Female,38,Sales,Bachelors,Life Sciences,Engineer,157556,0,8,5,No,8
+10304,Employee_303,Female,54,IT,Masters,Medical,Analyst,225246,24,14,4,No,9
+10305,Employee_304,Male,30,Marketing,PhD,Other,Manager,56160,28,15,3,No,9
+10306,Employee_305,Male,50,Sales,Bachelors,Human Resources,Engineer,276242,6,11,4,No,0
+10307,Employee_306,Male,47,Marketing,Bachelors,Human Resources,Coordinator,47633,16,13,5,No,1
+10308,Employee_307,Female,56,Sales,Masters,Other,Assistant,79104,2,12,3,No,4
+10309,Employee_308,Female,46,Finance,PhD,Marketing,Analyst,98388,19,1,5,No,2
+10310,Employee_309,Female,45,Operations,Bachelors,Marketing,Coordinator,46014,19,2,4,No,1
+10311,Employee_310,Female,34,IT,Masters,Marketing,Engineer,122578,20,9,3,No,0
+10312,Employee_311,Male,28,Operations,High School,Other,Executive,194827,29,8,4,Yes,9
+10313,Employee_312,Male,57,Operations,Masters,Other,Coordinator,70390,2,19,4,No,2
+10314,Employee_313,Male,41,IT,High School,Other,Assistant,121658,2,7,3,No,0
+10315,Employee_314,Female,22,HR,Bachelors,Medical,Assistant,87993,16,9,4,Yes,0
+10316,Employee_315,Female,29,Operations,PhD,Human Resources,Engineer,235768,6,18,3,No,0
+10317,Employee_316,Male,37,HR,High School,Life Sciences,Executive,188285,26,2,4,No,7
+10318,Employee_317,Female,35,Finance,PhD,Medical,Assistant,276860,25,4,5,Yes,2
+10319,Employee_318,Male,33,Operations,Bachelors,Human Resources,Assistant,299565,13,2,3,No,0
+10320,Employee_319,Female,44,Sales,PhD,Technical Degree,Assistant,248008,16,15,4,No,6
+10321,Employee_320,Female,36,Finance,High School,Medical,Executive,47727,17,16,5,No,9
+10322,Employee_321,Female,49,Finance,Masters,Technical Degree,Manager,34358,12,14,3,No,2
+10323,Employee_322,Female,55,Marketing,Masters,Medical,Manager,287681,19,2,4,No,7
+10324,Employee_323,Female,23,Operations,Bachelors,Medical,Engineer,124018,28,11,4,Yes,3
+10325,Employee_324,Male,53,Operations,PhD,Human Resources,Analyst,156888,19,8,4,Yes,3
+10326,Employee_325,Female,44,HR,Bachelors,Marketing,Executive,259104,20,11,1,No,4
+10327,Employee_326,Male,43,Operations,High School,Human Resources,Analyst,223510,26,14,3,Yes,5
+10328,Employee_327,Female,46,HR,High School,Marketing,Engineer,139847,17,1,3,No,6
+10329,Employee_328,Female,43,Operations,Bachelors,Technical Degree,Manager,106329,3,17,2,No,3
+10330,Employee_329,Female,43,Operations,High School,Technical Degree,Analyst,61007,0,19,3,No,7
+10331,Employee_330,Female,27,IT,Bachelors,Human Resources,Executive,200604,17,11,1,No,5
+10332,Employee_331,Male,36,IT,PhD,Marketing,Engineer,42323,0,3,5,No,0
+10333,Employee_332,Female,58,Operations,High School,Other,Assistant,142356,25,15,4,Yes,0
+10334,Employee_333,Male,54,Operations,Masters,Marketing,Analyst,140944,25,15,5,Yes,8
+10335,Employee_334,Female,29,Operations,Masters,Life Sciences,Assistant,234451,12,0,4,Yes,9
+10336,Employee_335,Female,26,Operations,High School,Medical,Executive,61367,19,1,3,No,5
+10337,Employee_336,Male,25,Sales,Masters,Life Sciences,Manager,84624,19,2,3,No,9
+10338,Employee_337,Female,27,Finance,Bachelors,Human Resources,Analyst,264565,22,19,4,Yes,7
+10339,Employee_338,Male,53,Sales,High School,Life Sciences,Analyst,98008,9,16,4,No,6
+10340,Employee_339,Male,51,Operations,Bachelors,Medical,Engineer,146492,26,19,4,No,5
+10341,Employee_340,Female,56,HR,Masters,Marketing,Executive,102240,10,0,5,No,3
+10342,Employee_341,Male,37,Operations,High School,Human Resources,Assistant,231659,8,19,4,No,6
+10343,Employee_342,Male,34,Finance,PhD,Other,Executive,165327,8,5,3,No,8
+10344,Employee_343,Male,51,IT,Bachelors,Human Resources,Assistant,155703,4,14,1,Yes,9
+10345,Employee_344,Male,40,Operations,Bachelors,Life Sciences,Manager,195575,25,13,5,No,9
+10346,Employee_345,Female,38,Operations,Masters,Other,Manager,104069,0,19,3,No,6
+10347,Employee_346,Female,40,IT,Masters,Other,Manager,259189,16,14,3,Yes,0
+10348,Employee_347,Male,49,HR,Bachelors,Other,Analyst,281051,21,13,4,Yes,9
+10349,Employee_348,Female,47,Sales,PhD,Marketing,Engineer,155541,1,4,5,Yes,8
+10350,Employee_349,Male,58,Sales,PhD,Medical,Assistant,219648,23,5,4,No,3
+10351,Employee_350,Female,47,IT,Bachelors,Marketing,Analyst,286353,12,16,3,Yes,2
+10352,Employee_351,Female,44,HR,PhD,Medical,Coordinator,161733,8,10,4,No,3
+10353,Employee_352,Female,30,HR,Bachelors,Marketing,Coordinator,205915,28,15,4,Yes,3
+10354,Employee_353,Male,33,Marketing,High School,Life Sciences,Executive,125673,3,11,4,No,9
+10355,Employee_354,Female,22,Marketing,PhD,Human Resources,Manager,72828,4,14,3,No,1
+10356,Employee_355,Male,22,Finance,PhD,Marketing,Coordinator,55592,10,3,3,No,0
+10357,Employee_356,Female,55,Marketing,Bachelors,Medical,Manager,292351,23,17,4,No,9
+10358,Employee_357,Male,53,HR,High School,Technical Degree,Assistant,262041,18,2,1,No,0
+10359,Employee_358,Male,46,Operations,Masters,Human Resources,Coordinator,260008,20,7,5,No,7
+10360,Employee_359,Male,22,Operations,High School,Technical Degree,Coordinator,154982,2,2,2,No,1
+10361,Employee_360,Female,37,Marketing,Masters,Technical Degree,Executive,286911,11,7,3,No,9
+10362,Employee_361,Male,26,Finance,Masters,Other,Executive,98619,25,17,4,No,4
+10363,Employee_362,Female,43,Sales,High School,Human Resources,Assistant,190400,18,9,2,No,3
+10364,Employee_363,Female,50,Marketing,Bachelors,Technical Degree,Manager,181175,18,19,3,No,7
+10365,Employee_364,Male,24,HR,Masters,Marketing,Coordinator,200963,12,16,2,No,1
+10366,Employee_365,Female,33,Sales,High School,Human Resources,Engineer,171826,27,7,4,No,9
+10367,Employee_366,Male,47,HR,PhD,Life Sciences,Manager,261055,6,10,5,No,8
+10368,Employee_367,Female,37,HR,Bachelors,Other,Manager,128540,14,4,5,No,6
+10369,Employee_368,Male,58,HR,Masters,Technical Degree,Engineer,132747,22,12,3,Yes,6
+10370,Employee_369,Female,43,HR,High School,Marketing,Coordinator,216994,6,4,2,Yes,0
+10371,Employee_370,Female,50,Marketing,PhD,Human Resources,Assistant,59301,25,12,4,No,1
+10372,Employee_371,Female,35,Operations,Masters,Technical Degree,Engineer,252724,7,5,3,No,3
+10373,Employee_372,Female,49,HR,Masters,Technical Degree,Coordinator,223783,4,4,4,No,3
+10374,Employee_373,Female,26,Marketing,High School,Technical Degree,Coordinator,202395,20,8,3,No,2
+10375,Employee_374,Male,51,Sales,Masters,Life Sciences,Analyst,48752,13,15,2,No,6
+10376,Employee_375,Male,26,Finance,Bachelors,Medical,Coordinator,243277,3,1,3,No,7
+10377,Employee_376,Female,33,Marketing,Bachelors,Marketing,Analyst,174467,22,0,3,No,1
+10378,Employee_377,Male,37,Sales,Masters,Medical,Manager,247029,9,7,4,No,3
+10379,Employee_378,Male,47,Sales,Bachelors,Human Resources,Engineer,86273,19,18,4,No,2
+10380,Employee_379,Female,47,HR,High School,Marketing,Analyst,288503,14,10,3,No,1
+10381,Employee_380,Female,42,IT,Masters,Marketing,Assistant,121878,17,11,4,No,5
+10382,Employee_381,Male,57,Finance,Masters,Technical Degree,Executive,297039,19,11,2,No,3
+10383,Employee_382,Male,54,Operations,Bachelors,Life Sciences,Engineer,149968,12,6,5,No,5
+10384,Employee_383,Male,51,Marketing,Masters,Technical Degree,Analyst,106559,28,12,3,No,1
+10385,Employee_384,Male,58,HR,Masters,Life Sciences,Executive,40699,7,7,2,No,3
+10386,Employee_385,Male,44,Sales,Bachelors,Human Resources,Manager,226133,8,8,4,No,5
+10387,Employee_386,Male,31,Operations,Masters,Marketing,Analyst,39715,15,6,4,No,4
+10388,Employee_387,Male,26,HR,High School,Human Resources,Coordinator,49169,18,14,4,No,2
+10389,Employee_388,Female,57,Finance,PhD,Life Sciences,Executive,148413,15,1,4,No,7
+10390,Employee_389,Female,55,HR,High School,Human Resources,Analyst,149264,6,19,5,No,6
+10391,Employee_390,Female,52,Sales,Masters,Other,Assistant,297926,13,11,4,Yes,2
+10392,Employee_391,Female,31,Sales,High School,Human Resources,Executive,249249,27,0,1,Yes,5
+10393,Employee_392,Male,40,Marketing,High School,Life Sciences,Executive,154481,13,7,3,Yes,3
+10394,Employee_393,Female,53,Finance,High School,Marketing,Coordinator,245400,24,4,5,No,4
+10395,Employee_394,Male,22,IT,High School,Marketing,Analyst,65585,26,14,4,No,4
+10396,Employee_395,Male,26,Finance,High School,Medical,Executive,208936,3,0,5,No,6
+10397,Employee_396,Male,25,IT,Bachelors,Technical Degree,Engineer,68067,25,0,4,No,4
+10398,Employee_397,Female,37,Finance,Masters,Human Resources,Coordinator,203757,14,9,2,No,2
+10399,Employee_398,Female,45,Finance,High School,Medical,Coordinator,283334,2,9,4,No,9
+10400,Employee_399,Male,37,HR,Masters,Marketing,Coordinator,48073,4,14,3,No,4
+10401,Employee_400,Male,23,HR,Bachelors,Medical,Executive,66035,0,16,4,Yes,6
+10402,Employee_401,Male,49,Marketing,High School,Human Resources,Engineer,226049,2,5,4,Yes,4
+10403,Employee_402,Male,53,Operations,Bachelors,Other,Engineer,263782,14,2,3,No,4
+10404,Employee_403,Female,48,Sales,High School,Human Resources,Manager,120373,23,12,4,No,8
+10405,Employee_404,Female,41,IT,PhD,Human Resources,Coordinator,120517,26,15,2,No,2
+10406,Employee_405,Male,45,Marketing,Bachelors,Life Sciences,Assistant,95450,7,7,2,Yes,5
+10407,Employee_406,Male,33,Sales,High School,Life Sciences,Coordinator,40382,28,14,4,No,0
+10408,Employee_407,Female,56,Finance,Masters,Marketing,Assistant,232043,3,16,2,No,9
+10409,Employee_408,Female,54,Sales,PhD,Marketing,Coordinator,251427,1,16,3,No,4
+10410,Employee_409,Male,54,Finance,PhD,Technical Degree,Engineer,91929,28,12,1,Yes,7
+10411,Employee_410,Female,58,Finance,Masters,Marketing,Engineer,263483,23,16,4,No,4
+10412,Employee_411,Female,33,Finance,High School,Human Resources,Analyst,258590,23,5,4,Yes,8
+10413,Employee_412,Female,24,Sales,High School,Technical Degree,Assistant,173401,9,16,4,No,5
+10414,Employee_413,Male,22,HR,Masters,Other,Analyst,286677,3,15,5,No,7
+10415,Employee_414,Male,54,Finance,Masters,Marketing,Coordinator,117468,2,13,5,No,9
+10416,Employee_415,Male,31,Sales,High School,Marketing,Executive,64594,1,12,5,No,7
+10417,Employee_416,Male,50,HR,Bachelors,Human Resources,Engineer,221703,24,5,3,No,2
+10418,Employee_417,Male,34,Finance,High School,Other,Manager,75033,16,2,4,No,6
+10419,Employee_418,Female,33,Sales,PhD,Technical Degree,Coordinator,93133,22,13,4,No,6
+10420,Employee_419,Male,52,Finance,Bachelors,Technical Degree,Coordinator,103861,20,13,4,No,9
+10421,Employee_420,Male,23,Marketing,Bachelors,Life Sciences,Executive,213362,23,14,3,Yes,5
+10422,Employee_421,Female,56,IT,High School,Other,Coordinator,70461,19,7,1,No,6
+10423,Employee_422,Male,44,Finance,High School,Medical,Executive,108222,22,14,5,No,1
+10424,Employee_423,Female,38,IT,High School,Human Resources,Coordinator,142020,12,12,3,No,8
+10425,Employee_424,Male,47,Sales,Bachelors,Marketing,Analyst,298865,4,16,4,No,9
+10426,Employee_425,Male,29,IT,PhD,Medical,Manager,50609,29,2,3,Yes,9
+10427,Employee_426,Female,50,Marketing,Bachelors,Human Resources,Engineer,160513,20,5,3,No,0
+10428,Employee_427,Male,47,Marketing,Masters,Marketing,Analyst,233981,29,4,3,No,0
+10429,Employee_428,Female,31,IT,High School,Technical Degree,Analyst,134211,8,16,5,No,2
+10430,Employee_429,Female,47,Marketing,PhD,Life Sciences,Coordinator,216321,24,1,4,No,2
+10431,Employee_430,Male,55,Marketing,High School,Life Sciences,Coordinator,59984,28,14,4,No,0
+10432,Employee_431,Male,28,Finance,PhD,Medical,Assistant,148947,24,4,4,Yes,6
+10433,Employee_432,Male,25,Sales,Masters,Technical Degree,Coordinator,234894,27,19,4,No,3
+10434,Employee_433,Female,32,IT,High School,Medical,Engineer,35901,21,5,4,No,9
+10435,Employee_434,Female,50,Sales,Bachelors,Marketing,Executive,192624,5,5,4,No,1
+10436,Employee_435,Male,57,Operations,Bachelors,Other,Manager,252317,4,17,5,No,9
+10437,Employee_436,Male,46,Operations,Masters,Technical Degree,Coordinator,198757,24,17,4,Yes,4
+10438,Employee_437,Female,42,Sales,PhD,Life Sciences,Engineer,175788,9,3,3,Yes,5
+10439,Employee_438,Male,57,Operations,High School,Other,Coordinator,144099,7,16,1,No,8
+10440,Employee_439,Female,31,Sales,PhD,Medical,Executive,41138,6,13,5,No,3
+10441,Employee_440,Female,58,IT,High School,Technical Degree,Executive,196370,6,13,4,No,1
+10442,Employee_441,Female,30,Marketing,Bachelors,Marketing,Coordinator,53429,5,12,4,No,4
+10443,Employee_442,Female,45,Marketing,PhD,Marketing,Engineer,80200,20,6,4,No,2
+10444,Employee_443,Female,56,Operations,Bachelors,Life Sciences,Coordinator,232380,28,11,4,No,1
+10445,Employee_444,Female,56,Finance,Bachelors,Technical Degree,Engineer,278289,19,14,3,No,0
+10446,Employee_445,Female,57,IT,PhD,Medical,Engineer,275127,2,18,4,No,9
+10447,Employee_446,Female,39,Operations,PhD,Technical Degree,Engineer,266513,18,10,4,No,1
+10448,Employee_447,Female,53,IT,Masters,Technical Degree,Assistant,47347,21,14,3,No,5
+10449,Employee_448,Female,45,Operations,PhD,Technical Degree,Executive,177992,14,11,4,No,7
+10450,Employee_449,Female,44,Operations,High School,Human Resources,Assistant,61822,3,2,5,No,2
+10451,Employee_450,Female,53,IT,Masters,Life Sciences,Engineer,70108,27,16,5,No,8
+10452,Employee_451,Female,58,Marketing,High School,Life Sciences,Engineer,37967,11,2,1,Yes,8
+10453,Employee_452,Male,33,Finance,PhD,Technical Degree,Executive,41871,5,18,4,No,1
+10454,Employee_453,Male,34,Finance,High School,Life Sciences,Manager,255371,18,19,4,Yes,7
+10455,Employee_454,Male,44,Finance,Bachelors,Other,Manager,238524,3,3,5,Yes,9
+10456,Employee_455,Female,46,IT,Masters,Human Resources,Assistant,235342,14,2,3,No,4
+10457,Employee_456,Female,56,HR,PhD,Other,Assistant,194685,8,15,4,No,3
+10458,Employee_457,Female,51,Finance,Masters,Medical,Engineer,58179,4,11,5,No,9
+10459,Employee_458,Female,38,Finance,High School,Other,Manager,281537,12,7,4,No,4
+10460,Employee_459,Male,41,Marketing,Bachelors,Life Sciences,Executive,213260,22,16,3,No,3
+10461,Employee_460,Male,46,HR,Bachelors,Marketing,Assistant,65262,25,6,3,No,7
+10462,Employee_461,Male,43,Sales,High School,Medical,Analyst,90545,17,10,5,No,3
+10463,Employee_462,Male,34,Sales,Masters,Human Resources,Manager,264555,29,17,3,No,9
+10464,Employee_463,Male,40,HR,PhD,Technical Degree,Manager,253894,29,0,3,No,5
+10465,Employee_464,Female,57,Marketing,PhD,Human Resources,Assistant,233218,4,2,5,No,1
+10466,Employee_465,Male,33,Finance,High School,Technical Degree,Coordinator,72913,24,3,4,No,4
+10467,Employee_466,Male,40,Finance,PhD,Human Resources,Engineer,280497,15,12,3,No,5
+10468,Employee_467,Female,33,Marketing,High School,Medical,Engineer,207404,26,5,3,No,4
+10469,Employee_468,Female,30,HR,Bachelors,Marketing,Coordinator,186104,18,13,3,Yes,1
+10470,Employee_469,Male,28,IT,High School,Technical Degree,Engineer,198918,13,4,5,No,6
+10471,Employee_470,Male,49,HR,Bachelors,Other,Engineer,220546,24,15,4,No,3
+10472,Employee_471,Female,35,Operations,Bachelors,Life Sciences,Analyst,74936,29,14,2,Yes,7
+10473,Employee_472,Male,52,Marketing,Masters,Medical,Executive,190866,15,14,4,Yes,6
+10474,Employee_473,Male,40,Sales,Masters,Marketing,Engineer,222660,26,3,4,Yes,6
+10475,Employee_474,Male,37,Marketing,PhD,Marketing,Analyst,232056,14,7,3,Yes,8
+10476,Employee_475,Female,26,IT,Masters,Life Sciences,Engineer,255469,21,15,2,No,0
+10477,Employee_476,Female,56,Marketing,Masters,Marketing,Engineer,58141,3,15,4,No,9
+10478,Employee_477,Female,33,Operations,PhD,Technical Degree,Engineer,167478,6,3,5,No,5
+10479,Employee_478,Female,46,Sales,Masters,Medical,Analyst,127359,15,12,3,Yes,5
+10480,Employee_479,Female,42,HR,Bachelors,Life Sciences,Executive,184363,23,12,3,Yes,5
+10481,Employee_480,Male,57,Sales,Masters,Human Resources,Analyst,71568,21,1,5,No,5
+10482,Employee_481,Male,44,Sales,Masters,Medical,Coordinator,127539,20,2,5,No,9
+10483,Employee_482,Male,37,Finance,High School,Technical Degree,Coordinator,76851,21,7,1,No,6
+10484,Employee_483,Female,35,Marketing,Masters,Technical Degree,Coordinator,84823,20,14,2,No,9
+10485,Employee_484,Female,52,Sales,High School,Human Resources,Analyst,53312,7,10,4,No,5
+10486,Employee_485,Female,26,Marketing,Bachelors,Technical Degree,Coordinator,229900,16,8,4,No,0
+10487,Employee_486,Male,56,IT,Masters,Life Sciences,Coordinator,279062,15,6,4,No,2
+10488,Employee_487,Female,44,HR,Bachelors,Human Resources,Assistant,62371,26,12,4,No,1
+10489,Employee_488,Female,50,HR,PhD,Technical Degree,Assistant,87022,22,1,2,Yes,5
+10490,Employee_489,Female,32,Operations,Masters,Other,Coordinator,129071,9,7,3,No,7
+10491,Employee_490,Male,39,Sales,PhD,Marketing,Coordinator,212268,9,6,4,Yes,2
+10492,Employee_491,Male,33,Finance,High School,Human Resources,Analyst,129853,26,11,3,No,9
+10493,Employee_492,Male,30,HR,Masters,Other,Engineer,61174,1,18,2,No,7
+10494,Employee_493,Male,31,Marketing,High School,Other,Analyst,106373,29,6,5,No,7
+10495,Employee_494,Male,38,Marketing,PhD,Medical,Executive,223021,8,9,4,No,4
+10496,Employee_495,Female,59,HR,PhD,Technical Degree,Executive,223718,16,15,5,Yes,7
+10497,Employee_496,Male,28,Finance,PhD,Medical,Analyst,100017,10,2,2,Yes,5
+10498,Employee_497,Male,34,Marketing,High School,Technical Degree,Manager,93037,9,9,1,No,4
+10499,Employee_498,Male,30,HR,Bachelors,Other,Executive,119818,21,5,2,Yes,8
+10500,Employee_499,Male,48,HR,High School,Marketing,Coordinator,36548,24,17,4,No,6
+10501,Employee_500,Female,23,Sales,PhD,Life Sciences,Manager,146981,16,17,3,No,7
+10502,Employee_501,Male,26,Finance,High School,Technical Degree,Engineer,264213,3,4,5,No,0
+10503,Employee_502,Male,50,HR,High School,Technical Degree,Executive,234366,15,6,3,No,1
+10504,Employee_503,Female,58,HR,Masters,Technical Degree,Coordinator,184249,19,1,4,No,7
+10505,Employee_504,Male,59,Sales,Bachelors,Marketing,Executive,136297,14,10,4,No,8
+10506,Employee_505,Female,40,Operations,High School,Medical,Engineer,166614,24,12,5,Yes,3
+10507,Employee_506,Male,29,Operations,Bachelors,Technical Degree,Manager,252084,26,4,2,No,9
+10508,Employee_507,Male,22,Operations,PhD,Human Resources,Engineer,90428,20,5,3,No,9
+10509,Employee_508,Male,43,Finance,Bachelors,Other,Analyst,183812,4,13,3,No,8
+10510,Employee_509,Male,38,IT,PhD,Life Sciences,Coordinator,143132,5,11,3,No,3
+10511,Employee_510,Male,28,IT,Bachelors,Life Sciences,Engineer,217604,16,3,3,No,9
+10512,Employee_511,Male,46,Operations,High School,Technical Degree,Analyst,46052,0,5,4,No,9
+10513,Employee_512,Female,25,Operations,Bachelors,Life Sciences,Executive,130689,24,9,4,No,9
+10514,Employee_513,Male,57,Marketing,Masters,Other,Manager,208148,18,17,4,No,8
+10515,Employee_514,Female,27,Marketing,High School,Human Resources,Coordinator,161743,3,14,2,No,6
+10516,Employee_515,Female,52,HR,Bachelors,Other,Assistant,292307,16,7,1,Yes,1
+10517,Employee_516,Male,40,IT,Masters,Marketing,Coordinator,165870,8,8,4,No,8
+10518,Employee_517,Male,48,Sales,High School,Marketing,Analyst,150575,23,4,1,No,3
+10519,Employee_518,Male,31,IT,High School,Technical Degree,Engineer,288230,1,9,4,No,7
+10520,Employee_519,Female,47,Marketing,Masters,Technical Degree,Executive,40749,7,19,5,No,6
+10521,Employee_520,Female,40,IT,Masters,Life Sciences,Executive,134131,14,5,2,No,6
+10522,Employee_521,Male,24,Operations,Bachelors,Medical,Manager,186193,6,15,4,Yes,7
+10523,Employee_522,Female,34,HR,Masters,Medical,Analyst,255019,26,2,1,No,0
+10524,Employee_523,Female,49,Marketing,High School,Human Resources,Analyst,102930,5,9,4,Yes,4
+10525,Employee_524,Female,41,Marketing,Masters,Medical,Assistant,175128,0,10,5,Yes,1
+10526,Employee_525,Female,49,Operations,PhD,Technical Degree,Coordinator,286553,14,10,4,No,1
+10527,Employee_526,Female,29,Finance,Bachelors,Medical,Executive,225113,22,16,5,No,0
+10528,Employee_527,Male,22,Operations,High School,Life Sciences,Engineer,83352,25,3,4,Yes,4
+10529,Employee_528,Male,24,Finance,High School,Human Resources,Executive,193856,6,3,3,Yes,1
+10530,Employee_529,Male,34,Sales,Bachelors,Marketing,Manager,33191,28,16,3,No,3
+10531,Employee_530,Male,49,HR,Masters,Human Resources,Manager,134576,29,8,3,No,2
+10532,Employee_531,Female,46,HR,Masters,Technical Degree,Analyst,225713,24,18,5,No,2
+10533,Employee_532,Female,54,Finance,Bachelors,Life Sciences,Engineer,33631,16,4,5,No,1
+10534,Employee_533,Male,59,Operations,Masters,Medical,Engineer,167244,1,5,5,No,5
+10535,Employee_534,Female,27,Operations,Masters,Medical,Engineer,250169,26,2,5,No,1
+10536,Employee_535,Female,53,Sales,High School,Marketing,Engineer,120353,8,0,4,No,7
+10537,Employee_536,Male,42,Marketing,PhD,Human Resources,Engineer,58671,28,19,3,Yes,7
+10538,Employee_537,Female,37,HR,High School,Other,Analyst,152811,8,15,1,No,4
+10539,Employee_538,Female,42,HR,Bachelors,Human Resources,Manager,212503,12,10,3,No,9
+10540,Employee_539,Male,32,Marketing,PhD,Technical Degree,Manager,251972,5,12,3,No,6
+10541,Employee_540,Female,58,Finance,PhD,Marketing,Analyst,283211,5,9,2,No,3
+10542,Employee_541,Female,57,Operations,Bachelors,Technical Degree,Analyst,254033,19,2,4,No,0
+10543,Employee_542,Male,56,HR,Masters,Other,Coordinator,249861,19,8,4,No,1
+10544,Employee_543,Male,40,Marketing,Masters,Technical Degree,Coordinator,184544,20,11,4,No,9
+10545,Employee_544,Male,41,Marketing,High School,Marketing,Coordinator,210302,2,13,5,No,9
+10546,Employee_545,Female,39,Finance,High School,Human Resources,Coordinator,37099,16,0,2,Yes,3
+10547,Employee_546,Female,35,IT,High School,Marketing,Assistant,279686,16,17,4,No,0
+10548,Employee_547,Male,36,Operations,Masters,Human Resources,Engineer,86492,11,16,5,Yes,7
+10549,Employee_548,Female,52,HR,Masters,Other,Manager,126722,15,8,3,No,8
+10550,Employee_549,Male,22,Operations,High School,Medical,Analyst,60111,14,8,4,No,3
+10551,Employee_550,Female,24,Sales,Masters,Human Resources,Assistant,93936,12,9,5,No,9
+10552,Employee_551,Female,37,Operations,High School,Medical,Analyst,183686,22,18,3,Yes,2
+10553,Employee_552,Male,44,Operations,PhD,Technical Degree,Executive,253332,0,14,4,No,1
+10554,Employee_553,Female,32,Sales,Bachelors,Medical,Executive,231548,16,4,4,No,4
+10555,Employee_554,Female,33,Operations,Bachelors,Human Resources,Coordinator,279031,2,14,4,No,2
+10556,Employee_555,Female,31,IT,PhD,Human Resources,Assistant,93530,25,19,3,No,9
+10557,Employee_556,Male,53,HR,Masters,Other,Assistant,299932,14,1,3,Yes,6
+10558,Employee_557,Female,37,Finance,High School,Marketing,Analyst,58082,3,12,5,Yes,5
+10559,Employee_558,Female,29,HR,Bachelors,Other,Assistant,119570,3,15,5,No,0
+10560,Employee_559,Male,59,Operations,PhD,Medical,Coordinator,131015,17,14,5,No,7
+10561,Employee_560,Male,33,Finance,PhD,Life Sciences,Coordinator,237888,16,9,1,No,1
+10562,Employee_561,Male,45,Marketing,Masters,Other,Manager,177603,18,13,3,No,4
+10563,Employee_562,Female,49,IT,PhD,Technical Degree,Analyst,124439,10,9,1,Yes,8
+10564,Employee_563,Male,29,Finance,Bachelors,Other,Assistant,171214,19,13,4,No,7
+10565,Employee_564,Female,49,IT,Masters,Technical Degree,Manager,145053,2,8,3,Yes,1
+10566,Employee_565,Female,57,HR,PhD,Marketing,Manager,78355,7,13,4,No,8
+10567,Employee_566,Male,47,Finance,High School,Technical Degree,Manager,231139,13,2,4,No,4
+10568,Employee_567,Female,29,IT,Bachelors,Other,Manager,264706,25,19,3,Yes,9
+10569,Employee_568,Female,49,Sales,Masters,Human Resources,Coordinator,155426,0,15,4,No,5
+10570,Employee_569,Female,49,Operations,High School,Human Resources,Coordinator,94027,13,1,2,Yes,2
+10571,Employee_570,Female,58,IT,PhD,Medical,Engineer,189210,1,9,3,No,2
+10572,Employee_571,Male,57,Operations,PhD,Life Sciences,Coordinator,122601,28,2,5,No,9
+10573,Employee_572,Female,48,Operations,Bachelors,Marketing,Analyst,59956,22,10,5,No,7
+10574,Employee_573,Female,38,IT,Masters,Marketing,Coordinator,268340,3,10,5,No,9
+10575,Employee_574,Male,30,IT,PhD,Medical,Assistant,134797,23,12,5,No,9
+10576,Employee_575,Female,54,Finance,High School,Marketing,Engineer,166511,26,6,5,No,1
+10577,Employee_576,Female,41,HR,Masters,Other,Analyst,108815,28,16,4,No,1
+10578,Employee_577,Male,34,Sales,Masters,Medical,Analyst,69279,18,1,3,No,4
+10579,Employee_578,Male,49,HR,High School,Medical,Coordinator,178702,5,11,3,No,5
+10580,Employee_579,Female,50,Operations,Bachelors,Life Sciences,Analyst,91063,24,9,2,No,1
+10581,Employee_580,Male,34,Finance,Masters,Human Resources,Coordinator,279599,0,17,4,No,4
+10582,Employee_581,Female,56,IT,PhD,Human Resources,Engineer,284311,16,10,4,No,6
+10583,Employee_582,Female,27,Sales,Masters,Other,Manager,157896,7,15,5,No,9
+10584,Employee_583,Male,39,HR,Bachelors,Marketing,Coordinator,196216,18,16,4,Yes,9
+10585,Employee_584,Female,26,IT,PhD,Life Sciences,Assistant,252146,20,18,2,Yes,7
+10586,Employee_585,Male,46,Operations,PhD,Marketing,Engineer,238432,0,17,4,No,6
+10587,Employee_586,Male,23,IT,PhD,Technical Degree,Manager,212051,4,2,3,Yes,7
+10588,Employee_587,Female,31,Finance,Bachelors,Medical,Manager,127661,26,15,4,Yes,8
+10589,Employee_588,Male,51,Marketing,PhD,Other,Analyst,203672,15,5,4,No,4
+10590,Employee_589,Male,26,HR,PhD,Human Resources,Manager,153257,5,11,5,No,4
+10591,Employee_590,Female,54,Marketing,Bachelors,Technical Degree,Analyst,299054,7,10,2,No,9
+10592,Employee_591,Male,22,Operations,High School,Human Resources,Engineer,64964,12,14,4,No,3
+10593,Employee_592,Male,39,Finance,Bachelors,Life Sciences,Executive,260156,15,14,2,Yes,8
+10594,Employee_593,Female,53,IT,Masters,Other,Coordinator,138212,29,15,4,No,4
+10595,Employee_594,Male,32,HR,Masters,Human Resources,Coordinator,69071,2,9,3,No,1
+10596,Employee_595,Female,42,Marketing,Bachelors,Other,Manager,142990,18,11,3,No,9
+10597,Employee_596,Female,47,HR,Masters,Human Resources,Executive,99519,11,12,4,No,7
+10598,Employee_597,Male,46,Marketing,PhD,Life Sciences,Engineer,39503,15,3,4,No,6
+10599,Employee_598,Male,43,IT,Masters,Human Resources,Executive,221775,26,6,2,No,7
+10600,Employee_599,Female,48,Operations,PhD,Marketing,Executive,125457,10,1,3,No,2
+10601,Employee_600,Male,34,Finance,Masters,Human Resources,Coordinator,218938,9,14,4,No,3
+10602,Employee_601,Female,54,Finance,High School,Technical Degree,Coordinator,177977,24,7,2,No,4
+10603,Employee_602,Male,55,Sales,Masters,Life Sciences,Manager,75838,19,6,5,Yes,5
+10604,Employee_603,Female,56,Sales,Bachelors,Other,Manager,119489,3,14,5,No,0
+10605,Employee_604,Female,22,Operations,Bachelors,Human Resources,Coordinator,56806,11,13,4,No,3
+10606,Employee_605,Female,42,Operations,Masters,Technical Degree,Analyst,206072,22,7,3,No,9
+10607,Employee_606,Male,27,Marketing,PhD,Life Sciences,Analyst,100119,1,11,3,No,4
+10608,Employee_607,Female,49,Marketing,Masters,Marketing,Assistant,215165,23,12,4,No,6
+10609,Employee_608,Male,38,IT,PhD,Life Sciences,Analyst,135432,21,10,5,No,4
+10610,Employee_609,Male,26,Operations,Masters,Technical Degree,Coordinator,207876,18,16,2,No,0
+10611,Employee_610,Female,52,HR,Masters,Technical Degree,Assistant,114080,24,16,2,Yes,6
+10612,Employee_611,Male,26,Marketing,Bachelors,Medical,Assistant,282791,4,3,4,Yes,7
+10613,Employee_612,Female,59,Sales,High School,Technical Degree,Coordinator,107794,7,7,4,No,6
+10614,Employee_613,Male,24,Finance,Bachelors,Medical,Assistant,154447,6,4,2,Yes,3
+10615,Employee_614,Female,44,IT,Bachelors,Other,Assistant,150029,13,15,4,Yes,7
+10616,Employee_615,Male,58,Finance,Masters,Medical,Executive,209830,23,3,5,No,4
+10617,Employee_616,Female,58,Marketing,Masters,Medical,Manager,67643,22,14,5,No,9
+10618,Employee_617,Male,31,Finance,Bachelors,Medical,Engineer,217921,2,11,4,Yes,8
+10619,Employee_618,Female,31,IT,Masters,Medical,Engineer,189116,17,4,4,No,9
+10620,Employee_619,Male,40,IT,PhD,Marketing,Coordinator,45997,15,15,4,Yes,4
+10621,Employee_620,Male,38,Sales,Bachelors,Life Sciences,Manager,128605,22,13,3,No,0
+10622,Employee_621,Male,42,Finance,PhD,Life Sciences,Engineer,255942,18,9,4,No,8
+10623,Employee_622,Male,35,Sales,PhD,Medical,Engineer,175643,18,6,4,No,4
+10624,Employee_623,Male,30,Finance,Masters,Life Sciences,Executive,138255,17,12,3,No,5
+10625,Employee_624,Female,22,HR,High School,Technical Degree,Assistant,290298,19,19,4,No,3
+10626,Employee_625,Female,34,Operations,High School,Technical Degree,Coordinator,88005,15,4,4,No,5
+10627,Employee_626,Male,25,Sales,Masters,Medical,Coordinator,247322,7,2,5,No,7
+10628,Employee_627,Male,22,Marketing,High School,Marketing,Manager,219784,27,14,4,Yes,2
+10629,Employee_628,Male,53,Marketing,PhD,Medical,Manager,73541,0,3,3,No,4
+10630,Employee_629,Female,55,Marketing,High School,Life Sciences,Engineer,53387,16,14,2,No,1
+10631,Employee_630,Female,49,Operations,Bachelors,Human Resources,Assistant,209980,11,13,2,No,1
+10632,Employee_631,Female,52,Sales,Bachelors,Medical,Executive,115457,29,19,2,No,6
+10633,Employee_632,Male,29,Sales,PhD,Medical,Coordinator,174129,20,18,4,No,9
+10634,Employee_633,Male,47,Sales,Masters,Life Sciences,Assistant,94028,10,12,5,Yes,9
+10635,Employee_634,Male,55,HR,Bachelors,Technical Degree,Manager,149246,4,9,4,Yes,9
+10636,Employee_635,Male,24,Finance,PhD,Marketing,Coordinator,185930,26,4,2,Yes,5
+10637,Employee_636,Male,33,Marketing,High School,Marketing,Assistant,209761,11,19,3,No,3
+10638,Employee_637,Male,22,HR,PhD,Life Sciences,Coordinator,74638,16,19,5,No,4
+10639,Employee_638,Female,26,IT,High School,Marketing,Analyst,207558,5,5,5,No,0
+10640,Employee_639,Male,51,IT,PhD,Human Resources,Engineer,50567,0,3,4,No,6
+10641,Employee_640,Female,51,IT,Masters,Life Sciences,Engineer,87804,4,1,1,No,7
+10642,Employee_641,Female,38,Finance,PhD,Life Sciences,Coordinator,33754,24,15,1,No,8
+10643,Employee_642,Female,44,Operations,Masters,Marketing,Assistant,57044,27,17,4,No,7
+10644,Employee_643,Male,36,HR,Masters,Medical,Analyst,97260,13,4,5,No,4
+10645,Employee_644,Female,58,Marketing,High School,Technical Degree,Manager,96912,4,3,5,Yes,2
+10646,Employee_645,Male,42,Operations,PhD,Technical Degree,Assistant,286695,21,12,3,No,9
+10647,Employee_646,Female,35,Finance,PhD,Other,Analyst,38706,23,18,3,No,8
+10648,Employee_647,Female,23,Operations,Bachelors,Human Resources,Manager,212684,26,1,4,No,5
+10649,Employee_648,Male,32,Marketing,Masters,Technical Degree,Manager,59725,0,12,4,No,4
+10650,Employee_649,Male,59,Sales,PhD,Medical,Coordinator,166998,29,10,4,No,2
+10651,Employee_650,Male,55,IT,Bachelors,Human Resources,Executive,134555,17,3,4,No,5
+10652,Employee_651,Male,59,Finance,PhD,Human Resources,Executive,291486,15,19,3,No,2
+10653,Employee_652,Female,55,Sales,PhD,Human Resources,Analyst,86447,8,19,3,Yes,9
+10654,Employee_653,Male,39,Sales,Bachelors,Technical Degree,Coordinator,190878,18,14,4,No,5
+10655,Employee_654,Female,51,HR,Masters,Other,Coordinator,71321,21,3,4,No,3
+10656,Employee_655,Male,36,IT,High School,Human Resources,Manager,283113,4,8,2,Yes,1
+10657,Employee_656,Male,48,IT,Bachelors,Marketing,Coordinator,263103,26,6,5,No,7
+10658,Employee_657,Female,55,Marketing,Masters,Life Sciences,Manager,85147,1,18,5,No,3
+10659,Employee_658,Male,59,Finance,PhD,Human Resources,Engineer,121396,29,18,4,No,8
+10660,Employee_659,Male,54,Operations,PhD,Other,Analyst,274839,14,5,4,Yes,6
+10661,Employee_660,Female,45,Sales,PhD,Marketing,Engineer,51727,6,5,4,No,1
+10662,Employee_661,Male,36,Finance,PhD,Marketing,Assistant,269423,3,19,2,No,3
+10663,Employee_662,Female,51,Sales,Masters,Human Resources,Manager,125081,0,14,4,No,4
+10664,Employee_663,Male,38,HR,Masters,Human Resources,Executive,271130,12,14,4,No,2
+10665,Employee_664,Female,26,Operations,PhD,Marketing,Executive,98056,19,19,4,No,8
+10666,Employee_665,Female,50,Operations,Masters,Medical,Engineer,164153,21,8,4,No,4
+10667,Employee_666,Female,25,IT,Masters,Medical,Analyst,195268,6,3,3,Yes,1
+10668,Employee_667,Male,31,Sales,PhD,Other,Engineer,197807,14,17,5,No,2
+10669,Employee_668,Female,38,Sales,PhD,Technical Degree,Manager,265821,22,17,2,No,8
+10670,Employee_669,Male,31,Operations,Bachelors,Other,Assistant,110102,13,4,5,No,6
+10671,Employee_670,Male,38,Operations,High School,Marketing,Engineer,186570,22,19,4,No,1
+10672,Employee_671,Female,41,Finance,Masters,Human Resources,Assistant,106865,18,10,4,No,8
+10673,Employee_672,Female,45,Sales,High School,Technical Degree,Executive,192728,21,4,5,No,3
+10674,Employee_673,Male,26,Operations,High School,Human Resources,Coordinator,97695,28,3,4,No,8
+10675,Employee_674,Female,55,HR,Masters,Other,Executive,147235,23,11,4,No,1
+10676,Employee_675,Female,27,Operations,Bachelors,Marketing,Assistant,138777,19,1,3,No,9
+10677,Employee_676,Female,23,Finance,Bachelors,Life Sciences,Executive,49033,28,12,5,No,3
+10678,Employee_677,Female,34,Marketing,Masters,Marketing,Engineer,171877,23,9,3,No,4
+10679,Employee_678,Male,32,Marketing,High School,Marketing,Engineer,196923,17,8,5,No,1
+10680,Employee_679,Male,44,IT,Masters,Marketing,Assistant,56832,9,9,3,No,9
+10681,Employee_680,Female,37,Sales,Bachelors,Medical,Executive,224509,8,6,4,No,0
+10682,Employee_681,Male,52,Sales,Bachelors,Human Resources,Executive,175016,24,3,4,No,6
+10683,Employee_682,Male,32,HR,Masters,Technical Degree,Manager,70372,7,18,4,No,9
+10684,Employee_683,Male,37,Operations,High School,Life Sciences,Executive,119464,25,9,1,Yes,0
+10685,Employee_684,Male,29,IT,High School,Life Sciences,Executive,176451,29,2,5,No,7
+10686,Employee_685,Male,25,Operations,Bachelors,Human Resources,Analyst,147322,28,18,2,No,2
+10687,Employee_686,Female,25,HR,High School,Human Resources,Engineer,197823,9,1,4,No,9
+10688,Employee_687,Male,46,Marketing,PhD,Medical,Manager,250894,16,19,3,No,5
+10689,Employee_688,Male,24,Sales,Masters,Technical Degree,Executive,297254,1,9,5,No,6
+10690,Employee_689,Female,53,Operations,Masters,Human Resources,Assistant,130483,5,1,4,No,9
+10691,Employee_690,Female,24,Marketing,Bachelors,Technical Degree,Assistant,39596,25,1,5,No,0
+10692,Employee_691,Male,48,Finance,Masters,Marketing,Analyst,264627,4,16,5,No,5
+10693,Employee_692,Female,50,Operations,Bachelors,Marketing,Executive,137539,27,15,4,No,6
+10694,Employee_693,Female,53,Sales,PhD,Technical Degree,Coordinator,48313,29,15,3,No,5
+10695,Employee_694,Female,40,IT,Bachelors,Technical Degree,Executive,227621,8,13,4,No,3
+10696,Employee_695,Female,42,Operations,High School,Other,Manager,144914,4,6,5,No,0
+10697,Employee_696,Female,26,IT,High School,Marketing,Manager,53705,17,10,4,Yes,8
+10698,Employee_697,Female,39,Marketing,High School,Marketing,Coordinator,228436,25,0,3,No,3
+10699,Employee_698,Male,49,Operations,Masters,Human Resources,Coordinator,133892,19,10,4,No,6
+10700,Employee_699,Female,43,IT,Bachelors,Technical Degree,Assistant,239717,8,3,3,No,6
+10701,Employee_700,Female,42,Marketing,Masters,Human Resources,Analyst,294167,16,6,4,No,1
+10702,Employee_701,Female,27,Sales,High School,Marketing,Manager,149654,26,14,3,No,0
+10703,Employee_702,Female,22,HR,High School,Human Resources,Manager,220868,16,17,5,No,7
+10704,Employee_703,Male,26,Operations,High School,Technical Degree,Manager,110073,11,11,3,Yes,7
+10705,Employee_704,Male,33,IT,Bachelors,Medical,Manager,94429,6,16,2,Yes,6
+10706,Employee_705,Male,47,IT,Bachelors,Technical Degree,Executive,134195,26,0,4,No,7
+10707,Employee_706,Female,55,Operations,High School,Life Sciences,Manager,222699,2,10,4,No,2
+10708,Employee_707,Female,35,IT,PhD,Other,Assistant,63848,9,0,4,Yes,1
+10709,Employee_708,Male,47,Marketing,Masters,Technical Degree,Assistant,98099,1,14,5,No,6
+10710,Employee_709,Male,48,Finance,PhD,Marketing,Analyst,99122,24,9,4,No,7
+10711,Employee_710,Female,30,Sales,PhD,Technical Degree,Analyst,177159,2,6,4,No,0
+10712,Employee_711,Female,47,Finance,PhD,Marketing,Manager,78868,15,1,2,Yes,9
+10713,Employee_712,Female,43,Marketing,High School,Technical Degree,Assistant,149119,1,9,2,No,8
+10714,Employee_713,Female,51,Marketing,Masters,Human Resources,Manager,298787,27,3,4,No,3
+10715,Employee_714,Male,38,Sales,Bachelors,Medical,Assistant,139079,23,11,3,No,3
+10716,Employee_715,Male,47,Sales,PhD,Other,Analyst,46029,9,18,2,No,2
+10717,Employee_716,Male,57,Marketing,Masters,Life Sciences,Analyst,276353,5,10,3,No,5
+10718,Employee_717,Male,22,Finance,Masters,Life Sciences,Executive,224718,21,7,4,No,0
+10719,Employee_718,Male,29,Marketing,PhD,Human Resources,Manager,98926,25,17,4,Yes,5
+10720,Employee_719,Male,56,HR,Masters,Human Resources,Coordinator,167069,10,10,1,Yes,1
+10721,Employee_720,Male,36,Sales,Bachelors,Marketing,Analyst,72092,22,10,4,No,8
+10722,Employee_721,Female,43,Sales,PhD,Marketing,Assistant,182889,6,12,4,No,1
+10723,Employee_722,Female,35,HR,PhD,Technical Degree,Executive,198933,26,2,4,Yes,6
+10724,Employee_723,Female,47,IT,Bachelors,Life Sciences,Engineer,43428,28,11,5,No,0
+10725,Employee_724,Female,49,HR,Masters,Human Resources,Assistant,205006,14,2,2,Yes,6
+10726,Employee_725,Female,44,Sales,Bachelors,Other,Analyst,276627,5,9,5,No,4
+10727,Employee_726,Female,35,HR,PhD,Other,Coordinator,275439,19,16,3,No,7
+10728,Employee_727,Male,45,IT,PhD,Technical Degree,Coordinator,171330,26,1,5,No,3
+10729,Employee_728,Male,23,Finance,Bachelors,Life Sciences,Analyst,87775,8,16,5,No,9
+10730,Employee_729,Female,47,IT,PhD,Life Sciences,Analyst,242652,21,15,2,No,6
+10731,Employee_730,Male,35,Sales,Bachelors,Life Sciences,Engineer,297613,19,1,5,No,5
+10732,Employee_731,Female,28,IT,High School,Technical Degree,Assistant,167328,11,19,2,No,4
+10733,Employee_732,Female,24,Sales,PhD,Marketing,Coordinator,285158,18,5,1,Yes,3
+10734,Employee_733,Male,44,Finance,High School,Technical Degree,Manager,106256,19,9,5,No,6
+10735,Employee_734,Female,39,HR,Masters,Medical,Assistant,162723,2,9,4,No,4
+10736,Employee_735,Female,59,IT,PhD,Human Resources,Manager,211360,14,7,4,No,4
+10737,Employee_736,Male,56,HR,High School,Medical,Manager,272634,1,0,5,No,0
+10738,Employee_737,Male,36,IT,PhD,Technical Degree,Analyst,63787,29,12,4,No,1
+10739,Employee_738,Male,46,Sales,Masters,Other,Executive,51621,20,8,3,No,4
+10740,Employee_739,Male,58,Operations,High School,Medical,Engineer,107984,1,9,1,No,2
+10741,Employee_740,Female,49,Operations,High School,Other,Coordinator,60447,21,14,3,No,1
+10742,Employee_741,Female,31,Operations,Masters,Marketing,Coordinator,158046,2,4,4,Yes,3
+10743,Employee_742,Male,38,Finance,PhD,Other,Assistant,245002,5,15,4,Yes,3
+10744,Employee_743,Female,43,HR,PhD,Marketing,Executive,191326,14,12,5,No,3
+10745,Employee_744,Male,47,IT,Bachelors,Life Sciences,Assistant,146859,26,19,4,No,3
+10746,Employee_745,Female,46,Sales,High School,Life Sciences,Coordinator,218490,9,17,3,Yes,2
+10747,Employee_746,Female,38,HR,Masters,Other,Executive,33471,8,10,4,No,6
+10748,Employee_747,Female,34,IT,Masters,Marketing,Engineer,268404,0,8,4,No,8
+10749,Employee_748,Male,41,Sales,PhD,Life Sciences,Engineer,150312,15,15,4,No,4
+10750,Employee_749,Male,46,IT,PhD,Medical,Executive,256876,5,1,4,No,3
+10751,Employee_750,Male,25,IT,Masters,Marketing,Analyst,169401,8,1,5,No,1
+10752,Employee_751,Female,31,IT,PhD,Technical Degree,Manager,195937,26,11,4,No,1
+10753,Employee_752,Male,24,Sales,Masters,Life Sciences,Manager,76850,3,7,3,Yes,4
+10754,Employee_753,Female,39,HR,High School,Human Resources,Manager,273306,26,8,4,No,6
+10755,Employee_754,Female,57,HR,Bachelors,Human Resources,Manager,123808,27,11,3,No,9
+10756,Employee_755,Female,43,Finance,Bachelors,Marketing,Coordinator,167469,1,8,2,No,9
+10757,Employee_756,Female,55,Finance,High School,Other,Coordinator,258981,28,9,2,No,8
+10758,Employee_757,Male,29,HR,High School,Other,Analyst,196597,3,1,4,No,6
+10759,Employee_758,Male,40,Sales,PhD,Medical,Assistant,83072,0,15,4,No,4
+10760,Employee_759,Male,58,HR,Masters,Human Resources,Assistant,251178,18,19,4,No,9
+10761,Employee_760,Female,27,Operations,Masters,Marketing,Executive,113820,25,6,1,No,9
+10762,Employee_761,Female,47,HR,High School,Medical,Assistant,53284,24,1,4,Yes,9
+10763,Employee_762,Female,55,Finance,Bachelors,Marketing,Engineer,113369,9,0,4,No,5
+10764,Employee_763,Male,27,Marketing,Bachelors,Marketing,Analyst,242978,20,18,3,No,2
+10765,Employee_764,Female,58,HR,Masters,Technical Degree,Analyst,92812,14,3,4,No,4
+10766,Employee_765,Female,54,IT,Bachelors,Technical Degree,Executive,163168,26,1,4,No,7
+10767,Employee_766,Male,43,Marketing,High School,Marketing,Executive,274809,21,13,2,No,0
+10768,Employee_767,Female,42,Operations,Masters,Medical,Manager,282164,18,1,4,No,0
+10769,Employee_768,Male,27,Operations,Masters,Marketing,Manager,275317,15,14,4,No,6
+10770,Employee_769,Female,27,Sales,Masters,Other,Manager,180787,20,11,3,No,4
+10771,Employee_770,Female,25,HR,Masters,Other,Engineer,190381,26,4,4,Yes,4
+10772,Employee_771,Male,51,Operations,PhD,Life Sciences,Coordinator,176150,23,19,2,No,0
+10773,Employee_772,Male,32,HR,Masters,Other,Executive,35105,21,6,2,No,8
+10774,Employee_773,Female,51,HR,Masters,Human Resources,Coordinator,294983,3,9,5,No,0
+10775,Employee_774,Female,52,Operations,High School,Life Sciences,Assistant,98920,1,13,4,No,4
+10776,Employee_775,Male,45,Operations,PhD,Life Sciences,Analyst,72821,29,13,2,No,9
+10777,Employee_776,Female,30,HR,High School,Life Sciences,Assistant,155736,24,4,5,No,8
+10778,Employee_777,Female,24,Marketing,PhD,Human Resources,Coordinator,47069,12,17,1,Yes,3
+10779,Employee_778,Male,52,IT,Bachelors,Marketing,Manager,37531,27,13,4,No,7
+10780,Employee_779,Male,58,Finance,High School,Marketing,Manager,168808,0,1,4,No,5
+10781,Employee_780,Female,57,HR,PhD,Other,Assistant,168782,16,11,4,No,2
+10782,Employee_781,Male,45,IT,Bachelors,Life Sciences,Engineer,97155,12,5,4,Yes,3
+10783,Employee_782,Female,52,Marketing,Bachelors,Technical Degree,Coordinator,92424,3,3,4,Yes,1
+10784,Employee_783,Female,27,IT,Masters,Marketing,Coordinator,162503,6,12,4,No,0
+10785,Employee_784,Male,23,Sales,Bachelors,Marketing,Engineer,235675,16,3,4,No,7
+10786,Employee_785,Female,41,Finance,Masters,Human Resources,Assistant,198553,8,13,4,No,0
+10787,Employee_786,Female,49,Finance,High School,Technical Degree,Assistant,170629,3,15,2,Yes,0
+10788,Employee_787,Male,32,Finance,Bachelors,Marketing,Analyst,161234,18,3,4,No,3
+10789,Employee_788,Female,25,Marketing,PhD,Medical,Executive,49675,0,0,5,No,9
+10790,Employee_789,Male,36,Finance,Masters,Technical Degree,Executive,103997,9,12,5,No,9
+10791,Employee_790,Female,27,Operations,PhD,Technical Degree,Assistant,178087,3,3,2,Yes,5
+10792,Employee_791,Female,51,IT,High School,Marketing,Assistant,261390,8,19,4,No,8
+10793,Employee_792,Female,59,Marketing,Masters,Marketing,Engineer,170905,12,17,2,No,0
+10794,Employee_793,Female,23,IT,PhD,Medical,Engineer,281435,13,5,4,No,6
+10795,Employee_794,Male,36,HR,PhD,Technical Degree,Executive,71800,9,2,4,Yes,9
+10796,Employee_795,Female,32,Marketing,Masters,Technical Degree,Engineer,126044,5,12,2,No,4
+10797,Employee_796,Male,29,Marketing,Bachelors,Other,Assistant,297491,15,15,2,Yes,7
+10798,Employee_797,Female,47,Marketing,PhD,Medical,Executive,220135,5,4,3,No,6
+10799,Employee_798,Female,26,IT,Masters,Technical Degree,Analyst,163715,16,3,2,No,3
+10800,Employee_799,Female,27,IT,Masters,Marketing,Manager,47073,9,7,4,No,3
+10801,Employee_800,Male,47,Finance,High School,Technical Degree,Coordinator,60682,17,18,5,No,5
+10802,Employee_801,Male,25,HR,High School,Marketing,Executive,258870,26,13,1,No,5
+10803,Employee_802,Female,40,Finance,Masters,Other,Executive,257966,21,6,5,No,8
+10804,Employee_803,Female,41,Marketing,Masters,Technical Degree,Executive,145359,17,13,4,No,4
+10805,Employee_804,Male,54,Marketing,PhD,Human Resources,Coordinator,96707,2,5,3,No,7
+10806,Employee_805,Male,41,Sales,Bachelors,Life Sciences,Executive,281351,19,11,4,Yes,4
+10807,Employee_806,Female,33,Operations,Masters,Marketing,Engineer,268511,26,15,3,No,1
+10808,Employee_807,Male,22,IT,PhD,Human Resources,Manager,265718,20,16,5,No,5
+10809,Employee_808,Female,47,IT,Bachelors,Life Sciences,Analyst,95428,24,12,1,Yes,8
+10810,Employee_809,Female,35,Finance,Bachelors,Human Resources,Analyst,80601,27,13,3,Yes,2
+10811,Employee_810,Male,59,Operations,Masters,Other,Executive,141487,14,6,5,No,0
+10812,Employee_811,Male,58,Marketing,Masters,Other,Analyst,183741,14,13,4,Yes,0
+10813,Employee_812,Male,32,Finance,High School,Human Resources,Analyst,281924,3,14,4,Yes,2
+10814,Employee_813,Female,57,Marketing,High School,Marketing,Coordinator,289153,28,11,4,No,9
+10815,Employee_814,Female,34,IT,PhD,Life Sciences,Executive,279430,26,16,4,No,4
+10816,Employee_815,Male,24,Operations,High School,Other,Assistant,152788,8,8,4,No,2
+10817,Employee_816,Female,54,Finance,High School,Life Sciences,Coordinator,127239,26,14,4,No,8
+10818,Employee_817,Male,27,Finance,PhD,Marketing,Assistant,56928,25,11,4,Yes,7
+10819,Employee_818,Female,31,Sales,PhD,Human Resources,Manager,92292,18,1,5,Yes,2
+10820,Employee_819,Female,26,Marketing,PhD,Other,Analyst,59055,23,4,3,No,8
+10821,Employee_820,Female,44,Finance,PhD,Life Sciences,Engineer,111912,27,12,4,No,5
+10822,Employee_821,Male,31,IT,PhD,Technical Degree,Coordinator,167660,16,19,3,No,6
+10823,Employee_822,Female,23,Finance,Bachelors,Human Resources,Engineer,298448,10,7,2,No,3
+10824,Employee_823,Female,34,Sales,Masters,Medical,Engineer,37345,24,13,5,No,3
+10825,Employee_824,Female,23,Operations,Bachelors,Life Sciences,Engineer,190372,8,14,3,No,1
+10826,Employee_825,Male,41,Marketing,High School,Marketing,Engineer,121006,9,10,3,No,4
+10827,Employee_826,Male,22,IT,High School,Human Resources,Engineer,159350,17,0,3,No,7
+10828,Employee_827,Female,58,Marketing,Masters,Marketing,Coordinator,194437,19,2,5,No,6
+10829,Employee_828,Female,30,Operations,Bachelors,Technical Degree,Assistant,294480,12,16,5,No,6
+10830,Employee_829,Female,38,IT,Bachelors,Marketing,Analyst,236487,7,18,4,No,5
+10831,Employee_830,Female,30,Sales,High School,Human Resources,Engineer,127852,6,13,3,Yes,2
+10832,Employee_831,Male,32,HR,Masters,Marketing,Engineer,168593,16,7,3,No,4
+10833,Employee_832,Female,36,Finance,High School,Other,Manager,232779,20,12,2,No,0
+10834,Employee_833,Male,45,Finance,Masters,Human Resources,Analyst,184553,22,19,4,Yes,6
+10835,Employee_834,Female,59,Finance,PhD,Medical,Assistant,207832,14,2,2,No,8
+10836,Employee_835,Male,56,Finance,Bachelors,Life Sciences,Manager,75232,19,4,3,No,0
+10837,Employee_836,Female,51,IT,Bachelors,Other,Executive,289013,14,8,3,No,1
+10838,Employee_837,Male,52,IT,Masters,Human Resources,Coordinator,239093,0,5,5,No,2
+10839,Employee_838,Male,26,Marketing,Bachelors,Human Resources,Analyst,209017,24,1,3,No,2
+10840,Employee_839,Female,35,Finance,Masters,Technical Degree,Analyst,43140,13,12,2,No,7
+10841,Employee_840,Male,32,Finance,Masters,Life Sciences,Manager,113457,4,4,3,No,6
+10842,Employee_841,Female,30,IT,Bachelors,Marketing,Manager,44357,10,7,3,No,5
+10843,Employee_842,Female,55,Sales,Bachelors,Medical,Coordinator,141672,15,0,4,No,9
+10844,Employee_843,Female,33,Sales,Bachelors,Life Sciences,Executive,151673,1,19,4,No,9
+10845,Employee_844,Female,56,IT,High School,Other,Manager,95633,7,11,2,Yes,3
+10846,Employee_845,Female,56,Operations,High School,Human Resources,Engineer,238015,10,10,4,No,8
+10847,Employee_846,Male,22,Sales,High School,Technical Degree,Coordinator,126111,28,6,5,No,0
+10848,Employee_847,Male,43,Operations,Masters,Medical,Manager,99286,17,14,4,Yes,1
+10849,Employee_848,Female,50,Sales,Bachelors,Life Sciences,Manager,123269,2,10,3,No,3
+10850,Employee_849,Female,29,HR,PhD,Technical Degree,Executive,288635,29,15,3,No,2
+10851,Employee_850,Female,32,IT,High School,Other,Assistant,104071,25,2,4,Yes,0
+10852,Employee_851,Male,58,HR,Masters,Medical,Manager,251095,0,19,5,No,4
+10853,Employee_852,Male,35,IT,PhD,Life Sciences,Analyst,60651,10,13,4,No,6
+10854,Employee_853,Female,51,IT,Bachelors,Medical,Analyst,100202,15,2,3,No,1
+10855,Employee_854,Female,56,IT,Bachelors,Other,Executive,78777,17,0,2,No,4
+10856,Employee_855,Female,42,Marketing,Bachelors,Life Sciences,Executive,178066,29,14,5,Yes,5
+10857,Employee_856,Female,58,HR,Masters,Life Sciences,Manager,220706,15,0,3,No,6
+10858,Employee_857,Male,26,HR,High School,Medical,Coordinator,130158,22,16,1,No,0
+10859,Employee_858,Male,40,Marketing,Masters,Technical Degree,Analyst,269647,9,1,4,No,6
+10860,Employee_859,Female,35,Sales,PhD,Life Sciences,Manager,173891,17,19,2,No,3
+10861,Employee_860,Female,47,Operations,PhD,Marketing,Engineer,235977,5,5,2,No,7
+10862,Employee_861,Male,25,Finance,High School,Human Resources,Assistant,93870,18,7,2,No,3
+10863,Employee_862,Female,46,Marketing,Masters,Medical,Engineer,39283,3,15,4,No,5
+10864,Employee_863,Female,46,Sales,Bachelors,Human Resources,Engineer,191645,26,18,2,No,8
+10865,Employee_864,Male,39,Operations,PhD,Marketing,Coordinator,35774,12,0,4,No,4
+10866,Employee_865,Female,29,HR,High School,Human Resources,Executive,233127,23,2,3,No,3
+10867,Employee_866,Male,35,HR,High School,Other,Executive,172055,13,2,3,No,7
+10868,Employee_867,Male,53,Sales,High School,Marketing,Coordinator,126468,2,4,3,No,8
+10869,Employee_868,Male,59,Finance,Masters,Life Sciences,Manager,30781,9,11,5,Yes,3
+10870,Employee_869,Female,54,Operations,High School,Life Sciences,Manager,144586,5,11,3,No,2
+10871,Employee_870,Female,44,HR,Masters,Other,Assistant,36823,0,19,1,No,7
+10872,Employee_871,Female,36,IT,Bachelors,Life Sciences,Engineer,48489,22,12,3,No,4
+10873,Employee_872,Male,54,HR,Masters,Marketing,Coordinator,201033,23,19,5,No,1
+10874,Employee_873,Male,46,Finance,PhD,Other,Engineer,130417,26,8,3,No,9
+10875,Employee_874,Female,38,IT,Masters,Human Resources,Manager,111816,13,6,2,No,8
+10876,Employee_875,Female,54,Sales,Masters,Medical,Manager,183335,7,3,5,No,2
+10877,Employee_876,Male,23,Finance,PhD,Marketing,Assistant,181426,18,18,2,No,1
+10878,Employee_877,Female,35,HR,Bachelors,Technical Degree,Coordinator,204023,13,18,4,No,0
+10879,Employee_878,Male,27,Finance,PhD,Medical,Coordinator,53648,9,5,3,No,7
+10880,Employee_879,Male,27,IT,Bachelors,Human Resources,Manager,71971,16,12,5,No,2
+10881,Employee_880,Male,24,Marketing,High School,Marketing,Analyst,48658,8,10,4,No,6
+10882,Employee_881,Male,28,HR,PhD,Technical Degree,Executive,51253,28,12,4,No,0
+10883,Employee_882,Male,29,Marketing,Masters,Human Resources,Assistant,209635,5,12,4,No,0
+10884,Employee_883,Female,36,Marketing,Bachelors,Life Sciences,Engineer,187462,10,19,5,No,8
+10885,Employee_884,Female,50,Sales,Bachelors,Medical,Manager,212650,24,14,4,No,7
+10886,Employee_885,Female,54,Sales,Masters,Marketing,Assistant,240097,6,12,4,No,2
+10887,Employee_886,Male,51,Operations,Bachelors,Medical,Executive,133850,16,10,5,No,5
+10888,Employee_887,Male,48,HR,Masters,Human Resources,Manager,167924,27,18,2,No,2
+10889,Employee_888,Male,57,HR,Masters,Human Resources,Coordinator,256058,27,7,5,Yes,3
+10890,Employee_889,Female,50,IT,PhD,Technical Degree,Executive,163623,0,19,3,No,0
+10891,Employee_890,Female,59,HR,PhD,Marketing,Executive,91001,21,7,3,No,4
+10892,Employee_891,Male,54,Operations,Masters,Human Resources,Engineer,210231,4,9,4,No,0
+10893,Employee_892,Male,58,Finance,High School,Marketing,Analyst,152775,8,15,5,No,0
+10894,Employee_893,Female,48,Finance,Masters,Life Sciences,Engineer,63243,17,18,4,No,9
+10895,Employee_894,Male,54,Finance,Bachelors,Other,Executive,182872,23,10,4,Yes,6
+10896,Employee_895,Male,25,Finance,High School,Life Sciences,Assistant,291716,26,12,5,No,5
+10897,Employee_896,Male,43,Finance,PhD,Other,Manager,298854,20,8,4,Yes,1
+10898,Employee_897,Male,23,IT,Masters,Marketing,Executive,201918,1,19,2,Yes,1
+10899,Employee_898,Female,31,Operations,PhD,Human Resources,Engineer,249055,28,18,1,Yes,6
+10900,Employee_899,Female,26,Finance,Masters,Other,Executive,240129,25,15,4,No,0
+10901,Employee_900,Female,31,Marketing,Bachelors,Human Resources,Assistant,238139,10,6,2,No,1
+10902,Employee_901,Male,54,Marketing,Bachelors,Life Sciences,Manager,110257,26,18,2,No,7
+10903,Employee_902,Female,59,HR,High School,Other,Engineer,36530,27,11,3,No,5
+10904,Employee_903,Female,34,Finance,Bachelors,Technical Degree,Executive,95794,5,14,4,No,1
+10905,Employee_904,Male,52,Sales,High School,Other,Analyst,240545,25,13,1,No,6
+10906,Employee_905,Female,57,Sales,Bachelors,Marketing,Engineer,162970,7,10,4,No,3
+10907,Employee_906,Female,45,Sales,High School,Other,Executive,34135,3,9,5,No,1
+10908,Employee_907,Female,36,HR,High School,Other,Executive,280870,17,10,4,Yes,5
+10909,Employee_908,Male,50,HR,PhD,Marketing,Executive,119087,27,5,3,No,8
+10910,Employee_909,Female,29,Marketing,Bachelors,Medical,Coordinator,226103,10,1,4,No,8
+10911,Employee_910,Male,26,Finance,Bachelors,Life Sciences,Engineer,50074,4,10,4,No,7
+10912,Employee_911,Female,50,IT,Bachelors,Technical Degree,Executive,251796,14,18,2,Yes,2
+10913,Employee_912,Male,25,Sales,High School,Marketing,Manager,97843,27,5,5,No,2
+10914,Employee_913,Female,33,IT,PhD,Human Resources,Manager,69901,17,13,4,Yes,1
+10915,Employee_914,Female,23,HR,Bachelors,Human Resources,Manager,298050,1,19,4,No,4
+10916,Employee_915,Male,48,Finance,Masters,Human Resources,Engineer,92987,21,5,3,Yes,3
+10917,Employee_916,Female,52,Marketing,Masters,Technical Degree,Coordinator,84400,10,16,3,No,6
+10918,Employee_917,Female,57,Finance,PhD,Medical,Manager,186222,25,9,5,No,3
+10919,Employee_918,Female,57,Operations,PhD,Marketing,Analyst,61852,24,0,5,No,8
+10920,Employee_919,Female,47,Finance,Bachelors,Human Resources,Coordinator,149052,12,2,5,No,1
+10921,Employee_920,Female,48,IT,Masters,Medical,Manager,86481,3,7,3,No,5
+10922,Employee_921,Female,26,Sales,High School,Technical Degree,Manager,293427,21,7,5,No,6
+10923,Employee_922,Female,41,HR,Masters,Human Resources,Engineer,63691,6,19,5,No,3
+10924,Employee_923,Female,32,IT,Bachelors,Human Resources,Assistant,228137,28,14,3,No,5
+10925,Employee_924,Female,31,Sales,Masters,Life Sciences,Assistant,56170,10,6,3,No,6
+10926,Employee_925,Male,59,IT,PhD,Life Sciences,Coordinator,38438,21,10,2,Yes,3
+10927,Employee_926,Male,27,Sales,Masters,Life Sciences,Manager,177226,23,6,2,No,7
+10928,Employee_927,Female,29,Sales,Bachelors,Marketing,Assistant,85426,3,3,4,No,8
+10929,Employee_928,Female,44,Marketing,PhD,Medical,Engineer,269968,27,11,5,No,0
+10930,Employee_929,Male,47,Operations,Masters,Medical,Assistant,185289,14,5,2,No,6
+10931,Employee_930,Male,33,Finance,Bachelors,Medical,Assistant,291501,0,13,1,Yes,8
+10932,Employee_931,Female,47,IT,PhD,Life Sciences,Analyst,249780,22,11,4,No,9
+10933,Employee_932,Male,34,Marketing,Bachelors,Life Sciences,Executive,176108,2,10,4,No,4
+10934,Employee_933,Male,39,IT,Bachelors,Other,Engineer,238347,13,18,4,Yes,1
+10935,Employee_934,Female,46,Operations,Masters,Technical Degree,Assistant,127756,5,4,5,No,9
+10936,Employee_935,Female,54,IT,Masters,Other,Analyst,125665,17,13,5,No,5
+10937,Employee_936,Female,33,Sales,High School,Other,Engineer,161717,24,15,3,No,6
+10938,Employee_937,Female,57,Sales,High School,Technical Degree,Coordinator,192002,0,12,4,No,1
+10939,Employee_938,Female,25,Marketing,High School,Human Resources,Manager,291691,5,19,4,No,1
+10940,Employee_939,Male,26,HR,Masters,Life Sciences,Analyst,111835,5,3,4,No,9
+10941,Employee_940,Female,58,HR,High School,Other,Assistant,152232,20,10,4,No,9
+10942,Employee_941,Male,29,Finance,High School,Life Sciences,Coordinator,248561,15,16,5,No,0
+10943,Employee_942,Female,49,HR,Bachelors,Technical Degree,Engineer,273051,28,6,5,No,3
+10944,Employee_943,Female,52,IT,Masters,Other,Executive,187547,4,13,4,Yes,6
+10945,Employee_944,Male,30,Marketing,High School,Technical Degree,Analyst,73732,16,10,3,Yes,8
+10946,Employee_945,Male,50,Marketing,High School,Other,Assistant,242695,9,8,4,No,2
+10947,Employee_946,Female,35,Finance,PhD,Other,Engineer,207109,27,12,5,No,6
+10948,Employee_947,Male,43,Sales,Masters,Human Resources,Assistant,39346,20,17,4,No,6
+10949,Employee_948,Female,32,Sales,Bachelors,Medical,Engineer,292731,17,10,4,No,6
+10950,Employee_949,Female,44,Marketing,Bachelors,Marketing,Coordinator,42763,6,14,4,No,1
+10951,Employee_950,Female,22,Marketing,High School,Other,Engineer,220237,2,18,4,No,5
+10952,Employee_951,Female,58,IT,High School,Technical Degree,Executive,268553,12,0,3,No,1
+10953,Employee_952,Female,42,Marketing,PhD,Other,Analyst,150987,14,3,4,No,5
+10954,Employee_953,Female,47,Sales,High School,Medical,Analyst,246823,19,13,5,No,9
+10955,Employee_954,Male,57,Marketing,High School,Marketing,Manager,121353,18,13,5,No,2
+10956,Employee_955,Female,44,Finance,Masters,Other,Executive,251373,2,2,5,Yes,1
+10957,Employee_956,Male,22,Operations,High School,Human Resources,Engineer,55556,3,16,4,Yes,5
+10958,Employee_957,Female,36,Sales,Masters,Medical,Engineer,48099,4,2,4,No,1
+10959,Employee_958,Male,42,Marketing,High School,Life Sciences,Manager,206168,0,15,4,No,4
+10960,Employee_959,Female,30,Marketing,Masters,Life Sciences,Coordinator,233058,3,13,5,Yes,1
+10961,Employee_960,Female,30,HR,High School,Human Resources,Analyst,174302,11,19,4,Yes,2
+10962,Employee_961,Female,31,Operations,Bachelors,Marketing,Manager,232041,27,12,5,No,2
+10963,Employee_962,Female,47,IT,High School,Medical,Assistant,63866,26,14,4,No,5
+10964,Employee_963,Female,56,IT,PhD,Life Sciences,Assistant,135400,23,13,3,Yes,5
+10965,Employee_964,Male,46,Marketing,Masters,Other,Engineer,167488,9,18,2,No,9
+10966,Employee_965,Male,47,IT,Masters,Medical,Manager,102516,22,5,5,No,2
+10967,Employee_966,Male,32,Operations,High School,Marketing,Manager,216987,24,9,4,No,2
+10968,Employee_967,Female,59,Marketing,Masters,Marketing,Engineer,219139,20,14,5,No,0
+10969,Employee_968,Female,23,HR,Masters,Other,Assistant,188588,28,19,3,No,6
+10970,Employee_969,Female,28,Marketing,Bachelors,Technical Degree,Analyst,159295,25,5,3,No,7
+10971,Employee_970,Male,39,Finance,High School,Medical,Engineer,117969,19,9,3,No,1
+10972,Employee_971,Male,48,IT,Bachelors,Marketing,Engineer,162161,23,6,2,No,3
+10973,Employee_972,Female,55,Marketing,PhD,Life Sciences,Coordinator,235735,24,16,5,Yes,9
+10974,Employee_973,Female,48,Finance,PhD,Human Resources,Manager,171559,12,17,3,No,6
+10975,Employee_974,Male,38,Sales,High School,Medical,Manager,292299,22,16,4,No,7
+10976,Employee_975,Male,45,Sales,PhD,Technical Degree,Executive,153950,13,8,4,Yes,0
+10977,Employee_976,Male,46,HR,Masters,Other,Assistant,106229,22,9,2,No,3
+10978,Employee_977,Female,28,HR,PhD,Human Resources,Executive,134648,4,9,3,No,5
+10979,Employee_978,Male,27,Sales,PhD,Life Sciences,Manager,68547,3,6,3,No,2
+10980,Employee_979,Male,45,IT,High School,Life Sciences,Assistant,58795,13,15,3,No,4
+10981,Employee_980,Male,54,HR,Masters,Technical Degree,Manager,216368,9,17,4,No,9
+10982,Employee_981,Female,50,Finance,Bachelors,Medical,Analyst,51447,16,5,4,Yes,8
+10983,Employee_982,Male,43,HR,Masters,Marketing,Engineer,197670,9,19,3,No,2
+10984,Employee_983,Male,47,Marketing,Bachelors,Other,Executive,251823,25,0,3,Yes,4
+10985,Employee_984,Female,49,HR,Bachelors,Life Sciences,Coordinator,286190,6,0,5,No,7
+10986,Employee_985,Female,42,HR,Masters,Technical Degree,Engineer,236402,15,11,4,No,5
+10987,Employee_986,Female,28,Operations,High School,Other,Coordinator,282419,0,1,5,No,3
+10988,Employee_987,Male,38,Operations,Bachelors,Technical Degree,Assistant,259817,16,3,1,Yes,7
+10989,Employee_988,Female,41,Marketing,High School,Medical,Coordinator,85077,20,16,4,No,2
+10990,Employee_989,Male,41,Sales,High School,Human Resources,Assistant,142782,28,3,4,No,2
+10991,Employee_990,Male,43,Operations,PhD,Other,Assistant,132932,8,10,4,No,3
+10992,Employee_991,Male,49,Marketing,Masters,Technical Degree,Assistant,216339,5,3,3,No,8
+10993,Employee_992,Male,28,Operations,Bachelors,Technical Degree,Executive,128696,18,0,4,Yes,4
+10994,Employee_993,Male,22,Operations,High School,Other,Analyst,80939,12,6,3,No,7
+10995,Employee_994,Female,53,Operations,High School,Marketing,Engineer,217598,2,17,3,No,5
+10996,Employee_995,Male,34,Sales,Bachelors,Marketing,Engineer,171521,6,8,1,No,2
+10997,Employee_996,Male,51,Operations,Masters,Other,Engineer,80290,21,2,5,No,7
+10998,Employee_997,Male,44,HR,High School,Human Resources,Engineer,97990,8,7,2,No,8
+10999,Employee_998,Female,40,Marketing,PhD,Human Resources,Assistant,88810,21,18,3,No,7
+11000,Employee_999,Female,53,Marketing,Masters,Technical Degree,Analyst,148362,4,3,2,Yes,3
+11001,Employee_1000,Male,51,Marketing,High School,Life Sciences,Analyst,176295,9,17,4,No,5
+11002,Employee_1001,Female,50,Marketing,Bachelors,Other,Assistant,163669,22,19,2,No,0
+11003,Employee_1002,Female,50,IT,High School,Human Resources,Engineer,226749,16,10,4,No,3
+11004,Employee_1003,Female,51,Finance,Masters,Marketing,Executive,294803,11,13,2,No,7
+11005,Employee_1004,Male,37,HR,PhD,Technical Degree,Manager,116516,22,17,2,Yes,0
+11006,Employee_1005,Male,40,IT,PhD,Other,Engineer,104567,15,15,4,No,2
+11007,Employee_1006,Male,39,IT,PhD,Marketing,Engineer,156498,2,2,2,No,0
+11008,Employee_1007,Male,22,Finance,Masters,Human Resources,Manager,207810,29,14,4,No,8
+11009,Employee_1008,Female,35,Operations,Masters,Marketing,Manager,42109,24,3,3,No,1
+11010,Employee_1009,Male,23,Sales,Bachelors,Technical Degree,Coordinator,269472,21,4,3,Yes,8
+11011,Employee_1010,Female,49,Finance,High School,Other,Executive,169544,8,16,3,No,3
+11012,Employee_1011,Female,51,HR,Masters,Life Sciences,Executive,276183,28,6,3,No,1
+11013,Employee_1012,Female,59,Operations,High School,Technical Degree,Executive,184455,14,15,2,No,3
+11014,Employee_1013,Male,25,IT,PhD,Other,Assistant,274325,4,13,4,Yes,9
+11015,Employee_1014,Female,22,Operations,PhD,Life Sciences,Assistant,64518,22,15,2,Yes,5
+11016,Employee_1015,Male,29,HR,Bachelors,Marketing,Assistant,83909,12,6,4,No,6
+11017,Employee_1016,Male,50,Sales,Masters,Human Resources,Executive,230696,13,8,5,No,2
+11018,Employee_1017,Female,24,Marketing,Masters,Technical Degree,Analyst,45282,19,3,2,No,2
+11019,Employee_1018,Male,53,Marketing,PhD,Medical,Executive,269017,14,10,3,No,9
+11020,Employee_1019,Female,31,Marketing,Masters,Life Sciences,Executive,297219,15,1,3,No,7
+11021,Employee_1020,Male,31,IT,High School,Marketing,Executive,209526,22,11,3,No,4
+11022,Employee_1021,Male,40,Finance,High School,Medical,Coordinator,58365,12,11,5,Yes,3
+11023,Employee_1022,Female,55,IT,Bachelors,Human Resources,Executive,240294,16,3,3,Yes,6
+11024,Employee_1023,Male,54,Sales,High School,Other,Coordinator,146219,22,17,3,No,6
+11025,Employee_1024,Male,44,Finance,PhD,Technical Degree,Engineer,86307,7,6,1,No,8
+11026,Employee_1025,Female,49,HR,Bachelors,Marketing,Manager,165565,20,0,3,No,8
+11027,Employee_1026,Male,53,IT,PhD,Life Sciences,Manager,285095,1,12,4,No,4
+11028,Employee_1027,Female,28,HR,Bachelors,Technical Degree,Engineer,64228,4,5,5,No,7
+11029,Employee_1028,Male,50,HR,High School,Human Resources,Manager,240748,5,5,2,No,9
+11030,Employee_1029,Male,29,Marketing,Masters,Life Sciences,Engineer,73472,11,11,3,No,0
+11031,Employee_1030,Male,22,IT,PhD,Medical,Coordinator,167888,17,7,4,Yes,8
+11032,Employee_1031,Male,24,Finance,Masters,Human Resources,Manager,107175,29,18,4,No,7
+11033,Employee_1032,Female,45,Finance,High School,Technical Degree,Analyst,94307,21,4,3,No,5
+11034,Employee_1033,Male,44,IT,High School,Marketing,Executive,125028,21,17,3,No,2
+11035,Employee_1034,Male,29,IT,Masters,Life Sciences,Engineer,172312,0,4,4,No,2
+11036,Employee_1035,Female,58,Marketing,Masters,Technical Degree,Coordinator,122493,29,9,4,Yes,7
+11037,Employee_1036,Male,24,Sales,Bachelors,Medical,Executive,155149,16,0,4,No,4
+11038,Employee_1037,Male,54,Sales,Bachelors,Technical Degree,Coordinator,259416,29,9,3,No,9
+11039,Employee_1038,Male,49,Marketing,High School,Other,Assistant,232435,10,4,4,No,6
+11040,Employee_1039,Male,29,IT,Masters,Marketing,Executive,193834,9,11,5,No,4
+11041,Employee_1040,Female,55,Sales,Bachelors,Other,Manager,211211,18,6,4,Yes,7
+11042,Employee_1041,Female,56,Operations,PhD,Life Sciences,Assistant,93095,13,8,5,No,9
+11043,Employee_1042,Female,53,IT,Bachelors,Life Sciences,Manager,147886,25,11,5,Yes,9
+11044,Employee_1043,Male,45,Sales,Bachelors,Human Resources,Manager,65292,9,0,3,No,3
+11045,Employee_1044,Female,35,Operations,Bachelors,Life Sciences,Executive,104813,14,10,2,No,1
+11046,Employee_1045,Female,53,HR,Masters,Life Sciences,Coordinator,127136,27,14,2,No,2
+11047,Employee_1046,Male,37,Marketing,PhD,Human Resources,Analyst,81631,18,1,1,No,7
+11048,Employee_1047,Female,25,Sales,Bachelors,Human Resources,Executive,39885,3,19,2,No,6
+11049,Employee_1048,Female,58,Finance,PhD,Marketing,Engineer,215378,1,6,4,No,1
+11050,Employee_1049,Male,42,Sales,Bachelors,Human Resources,Manager,79812,8,11,4,No,5
+11051,Employee_1050,Female,35,Operations,Bachelors,Other,Assistant,211572,9,17,3,No,8
+11052,Employee_1051,Female,52,HR,Masters,Life Sciences,Manager,74900,27,2,4,Yes,3
+11053,Employee_1052,Female,39,Finance,Bachelors,Technical Degree,Coordinator,102692,10,6,3,No,8
+11054,Employee_1053,Male,28,HR,Bachelors,Other,Coordinator,257208,13,10,5,No,1
+11055,Employee_1054,Female,31,IT,Bachelors,Life Sciences,Analyst,76403,6,17,4,Yes,1
+11056,Employee_1055,Male,28,Operations,Masters,Life Sciences,Engineer,121170,22,11,3,Yes,8
+11057,Employee_1056,Male,54,Sales,Masters,Technical Degree,Executive,89871,14,5,3,Yes,6
+11058,Employee_1057,Male,44,IT,PhD,Marketing,Manager,62174,21,4,4,Yes,6
+11059,Employee_1058,Female,42,HR,Masters,Other,Executive,260823,18,0,4,No,0
+11060,Employee_1059,Male,40,Marketing,Masters,Life Sciences,Coordinator,253563,21,11,3,No,5
+11061,Employee_1060,Female,40,HR,Bachelors,Human Resources,Executive,167653,14,10,2,No,6
+11062,Employee_1061,Male,57,Finance,Masters,Life Sciences,Assistant,140155,29,3,4,No,5
+11063,Employee_1062,Male,50,Marketing,High School,Medical,Assistant,157795,27,17,3,No,5
+11064,Employee_1063,Female,39,Sales,High School,Life Sciences,Coordinator,118668,23,3,4,No,1
+11065,Employee_1064,Male,23,IT,Bachelors,Medical,Engineer,243397,7,16,5,Yes,5
+11066,Employee_1065,Male,22,Sales,Bachelors,Human Resources,Executive,175639,10,1,5,Yes,3
+11067,Employee_1066,Female,26,HR,Masters,Marketing,Engineer,269141,28,1,3,No,8
+11068,Employee_1067,Female,41,Marketing,Masters,Medical,Assistant,126019,8,11,5,No,0
+11069,Employee_1068,Male,32,Sales,Masters,Technical Degree,Engineer,58803,14,5,3,No,7
+11070,Employee_1069,Female,23,Marketing,High School,Human Resources,Assistant,179302,0,9,4,No,4
+11071,Employee_1070,Female,24,Marketing,PhD,Life Sciences,Executive,178934,29,15,4,No,0
+11072,Employee_1071,Male,44,Operations,High School,Marketing,Executive,260147,0,13,4,No,3
+11073,Employee_1072,Female,33,IT,High School,Human Resources,Executive,60795,18,6,4,No,0
+11074,Employee_1073,Male,41,Sales,High School,Medical,Coordinator,41093,2,18,2,No,5
+11075,Employee_1074,Female,26,Sales,PhD,Human Resources,Analyst,203824,9,16,5,No,1
+11076,Employee_1075,Female,58,IT,Bachelors,Marketing,Engineer,193399,7,8,4,No,4
+11077,Employee_1076,Female,59,Marketing,High School,Human Resources,Assistant,70197,14,12,4,No,6
+11078,Employee_1077,Female,51,Sales,High School,Other,Executive,32261,9,4,3,No,1
+11079,Employee_1078,Female,30,HR,High School,Human Resources,Analyst,187584,0,4,2,No,5
+11080,Employee_1079,Male,55,Operations,High School,Medical,Executive,165450,28,9,1,No,5
+11081,Employee_1080,Male,56,Sales,Bachelors,Other,Assistant,70583,17,9,5,No,4
+11082,Employee_1081,Male,43,Marketing,PhD,Technical Degree,Coordinator,190105,1,6,5,No,4
+11083,Employee_1082,Male,45,Marketing,Masters,Life Sciences,Coordinator,141032,18,14,3,Yes,2
+11084,Employee_1083,Male,38,Sales,Masters,Other,Engineer,236940,12,6,4,No,9
+11085,Employee_1084,Male,31,Operations,Masters,Human Resources,Assistant,256727,21,14,2,No,9
+11086,Employee_1085,Male,51,Sales,Masters,Human Resources,Coordinator,103869,0,2,1,No,1
+11087,Employee_1086,Male,44,Finance,PhD,Technical Degree,Engineer,297554,1,18,3,No,6
+11088,Employee_1087,Female,53,Sales,PhD,Marketing,Assistant,217116,28,9,3,No,0
+11089,Employee_1088,Male,38,Finance,Masters,Life Sciences,Engineer,224387,15,14,4,Yes,5
+11090,Employee_1089,Male,38,IT,Bachelors,Life Sciences,Engineer,232416,14,2,3,No,5
+11091,Employee_1090,Female,35,Marketing,High School,Marketing,Assistant,116716,12,5,3,No,2
+11092,Employee_1091,Male,30,Finance,Masters,Human Resources,Manager,84245,15,11,4,No,1
+11093,Employee_1092,Female,23,Sales,PhD,Technical Degree,Assistant,73056,16,14,4,No,1
+11094,Employee_1093,Male,46,IT,Bachelors,Marketing,Analyst,280736,20,5,4,No,8
+11095,Employee_1094,Male,30,Marketing,High School,Other,Assistant,255683,28,12,3,No,4
+11096,Employee_1095,Female,43,Operations,Masters,Life Sciences,Assistant,295972,28,18,3,Yes,6
+11097,Employee_1096,Female,25,Sales,Masters,Life Sciences,Manager,146656,6,2,3,No,4
+11098,Employee_1097,Female,47,Sales,High School,Other,Assistant,47087,23,7,3,No,6
+11099,Employee_1098,Female,50,Marketing,High School,Technical Degree,Analyst,166554,25,7,3,No,3
+11100,Employee_1099,Female,55,Finance,High School,Human Resources,Executive,212024,16,19,3,No,7
+11101,Employee_1100,Male,44,IT,High School,Life Sciences,Coordinator,166535,6,14,1,Yes,9
+11102,Employee_1101,Male,58,Operations,High School,Marketing,Manager,273236,12,3,1,No,9
+11103,Employee_1102,Male,32,HR,High School,Life Sciences,Coordinator,100448,4,18,1,Yes,6
+11104,Employee_1103,Female,27,Sales,PhD,Medical,Analyst,34648,25,2,4,No,9
+11105,Employee_1104,Female,39,HR,PhD,Life Sciences,Manager,65634,16,12,3,No,4
+11106,Employee_1105,Female,42,Sales,Bachelors,Technical Degree,Engineer,52054,2,7,4,No,5
+11107,Employee_1106,Female,57,Finance,Bachelors,Other,Analyst,100028,6,15,5,Yes,4
+11108,Employee_1107,Female,59,Finance,Masters,Marketing,Engineer,52207,25,12,2,No,6
+11109,Employee_1108,Female,55,Finance,Masters,Human Resources,Coordinator,260893,16,2,2,No,1
+11110,Employee_1109,Male,38,Marketing,Masters,Human Resources,Executive,111554,6,15,5,No,4
+11111,Employee_1110,Female,58,Marketing,High School,Human Resources,Engineer,182458,20,8,3,No,9
+11112,Employee_1111,Male,46,Operations,High School,Medical,Assistant,113276,0,13,3,No,2
+11113,Employee_1112,Female,59,Finance,Bachelors,Technical Degree,Executive,213852,16,12,2,Yes,8
+11114,Employee_1113,Male,33,HR,PhD,Technical Degree,Manager,222512,29,6,1,No,5
+11115,Employee_1114,Male,44,Finance,PhD,Marketing,Coordinator,38210,16,14,4,Yes,9
+11116,Employee_1115,Female,43,Finance,Bachelors,Other,Manager,74363,10,6,5,No,2
+11117,Employee_1116,Male,42,Marketing,PhD,Technical Degree,Executive,272247,24,5,3,Yes,6
+11118,Employee_1117,Female,48,HR,Bachelors,Life Sciences,Executive,108279,26,1,4,No,3
+11119,Employee_1118,Female,52,Sales,Masters,Medical,Coordinator,221420,28,8,3,No,2
+11120,Employee_1119,Female,27,Operations,High School,Marketing,Analyst,216356,2,16,4,No,7
+11121,Employee_1120,Female,48,Operations,PhD,Other,Analyst,233196,14,4,4,Yes,3
+11122,Employee_1121,Female,55,IT,Masters,Technical Degree,Manager,229919,28,11,3,No,0
+11123,Employee_1122,Female,33,Sales,Bachelors,Human Resources,Manager,287324,20,0,4,No,5
+11124,Employee_1123,Female,28,IT,Bachelors,Marketing,Analyst,225161,10,9,3,No,9
+11125,Employee_1124,Female,31,Finance,High School,Life Sciences,Manager,260363,25,10,3,No,0
+11126,Employee_1125,Male,38,Finance,High School,Medical,Analyst,164393,27,15,5,No,4
+11127,Employee_1126,Female,47,Operations,Bachelors,Life Sciences,Manager,239754,15,13,2,No,6
+11128,Employee_1127,Female,42,Operations,PhD,Technical Degree,Analyst,153053,24,7,4,No,5
+11129,Employee_1128,Male,49,Operations,PhD,Life Sciences,Executive,213965,21,16,2,No,1
+11130,Employee_1129,Male,23,Sales,PhD,Marketing,Analyst,196892,27,17,4,No,3
+11131,Employee_1130,Female,22,Operations,PhD,Human Resources,Assistant,164832,8,11,5,No,1
+11132,Employee_1131,Male,57,Finance,PhD,Technical Degree,Analyst,183262,23,16,4,No,0
+11133,Employee_1132,Male,47,IT,Masters,Medical,Manager,97411,23,13,3,No,2
+11134,Employee_1133,Male,50,Marketing,Masters,Human Resources,Manager,68211,0,15,4,No,2
+11135,Employee_1134,Female,42,Marketing,PhD,Technical Degree,Executive,243981,28,13,5,Yes,6
+11136,Employee_1135,Female,32,Operations,Masters,Medical,Analyst,295888,24,8,2,Yes,0
+11137,Employee_1136,Male,32,Marketing,PhD,Medical,Executive,286638,21,3,4,No,8
+11138,Employee_1137,Male,57,Sales,PhD,Human Resources,Analyst,178049,15,10,3,No,5
+11139,Employee_1138,Female,56,Sales,PhD,Human Resources,Executive,259010,8,5,4,No,3
+11140,Employee_1139,Male,55,HR,Bachelors,Other,Engineer,64542,18,14,5,No,2
+11141,Employee_1140,Female,45,Sales,Bachelors,Marketing,Manager,40651,11,4,3,No,2
+11142,Employee_1141,Male,43,Sales,Masters,Medical,Analyst,129239,18,10,4,No,1
+11143,Employee_1142,Male,26,Marketing,High School,Human Resources,Engineer,256416,21,17,1,No,1
+11144,Employee_1143,Male,54,Finance,High School,Life Sciences,Assistant,185378,8,12,3,No,9
+11145,Employee_1144,Male,57,Finance,High School,Technical Degree,Executive,180158,6,10,4,No,4
+11146,Employee_1145,Female,41,Finance,Masters,Medical,Engineer,171130,13,13,3,Yes,8
+11147,Employee_1146,Female,40,IT,PhD,Marketing,Executive,285948,28,17,5,No,1
+11148,Employee_1147,Female,56,Marketing,Masters,Marketing,Manager,94200,18,18,5,No,1
+11149,Employee_1148,Male,38,Sales,High School,Human Resources,Manager,135848,18,14,5,No,5
+11150,Employee_1149,Male,55,Finance,Bachelors,Human Resources,Executive,136022,1,8,5,Yes,9
+11151,Employee_1150,Male,30,Finance,PhD,Life Sciences,Executive,207691,8,7,5,Yes,1
+11152,Employee_1151,Female,47,HR,Masters,Human Resources,Executive,286453,12,19,4,No,3
+11153,Employee_1152,Female,23,HR,High School,Other,Executive,92068,14,0,4,No,5
+11154,Employee_1153,Male,30,Finance,PhD,Medical,Analyst,191445,2,3,5,Yes,4
+11155,Employee_1154,Female,30,HR,High School,Human Resources,Coordinator,194226,10,13,2,No,0
+11156,Employee_1155,Male,38,Marketing,High School,Marketing,Analyst,167103,20,1,3,No,5
+11157,Employee_1156,Male,22,Finance,Masters,Life Sciences,Coordinator,254605,13,15,5,No,0
+11158,Employee_1157,Male,46,IT,PhD,Other,Engineer,233047,29,2,4,No,2
+11159,Employee_1158,Female,46,Finance,High School,Human Resources,Analyst,279768,24,7,1,No,9
+11160,Employee_1159,Male,56,Operations,PhD,Technical Degree,Assistant,189741,7,5,4,No,4
+11161,Employee_1160,Male,24,Marketing,Bachelors,Medical,Engineer,124475,17,15,4,No,9
+11162,Employee_1161,Male,58,Sales,Bachelors,Medical,Analyst,32282,18,15,2,No,4
+11163,Employee_1162,Female,51,Marketing,PhD,Human Resources,Executive,195696,15,6,1,No,9
+11164,Employee_1163,Male,59,Marketing,Bachelors,Medical,Manager,209510,1,12,4,No,5
+11165,Employee_1164,Female,55,Operations,PhD,Human Resources,Assistant,250972,7,12,4,Yes,9
+11166,Employee_1165,Male,33,Sales,Masters,Medical,Analyst,192777,21,4,4,No,7
+11167,Employee_1166,Male,40,Sales,PhD,Life Sciences,Coordinator,198509,5,19,4,No,4
+11168,Employee_1167,Female,58,IT,Bachelors,Human Resources,Executive,238944,11,17,3,No,0
+11169,Employee_1168,Male,38,IT,High School,Other,Coordinator,149006,14,14,4,Yes,4
+11170,Employee_1169,Male,31,Finance,Masters,Marketing,Engineer,266440,24,17,5,No,2
+11171,Employee_1170,Male,33,HR,PhD,Medical,Assistant,234054,7,1,5,No,3
+11172,Employee_1171,Male,37,Marketing,High School,Marketing,Executive,37461,3,9,2,No,7
+11173,Employee_1172,Male,45,Marketing,High School,Marketing,Coordinator,130123,14,12,4,No,6
+11174,Employee_1173,Male,40,Sales,High School,Other,Executive,178586,27,17,3,No,4
+11175,Employee_1174,Male,29,Marketing,Masters,Life Sciences,Manager,261496,19,14,4,No,1
+11176,Employee_1175,Female,52,Marketing,High School,Other,Executive,197860,24,11,3,No,5
+11177,Employee_1176,Male,42,Sales,High School,Marketing,Engineer,236821,16,14,3,Yes,5
+11178,Employee_1177,Male,38,Operations,PhD,Marketing,Analyst,222121,12,12,2,No,9
+11179,Employee_1178,Female,44,Finance,Masters,Life Sciences,Coordinator,66027,17,17,2,No,9
+11180,Employee_1179,Female,58,Marketing,Masters,Human Resources,Manager,203921,1,14,3,No,5
+11181,Employee_1180,Female,37,Marketing,Masters,Technical Degree,Coordinator,178930,12,10,4,No,8
+11182,Employee_1181,Female,27,HR,PhD,Other,Executive,245234,12,18,5,Yes,7
+11183,Employee_1182,Male,29,Sales,Masters,Medical,Assistant,109003,21,2,4,Yes,7
+11184,Employee_1183,Female,46,Marketing,High School,Life Sciences,Coordinator,213467,14,6,4,No,0
+11185,Employee_1184,Male,39,HR,Bachelors,Human Resources,Executive,69758,19,13,4,No,4
+11186,Employee_1185,Male,46,Operations,Masters,Life Sciences,Executive,112279,28,13,4,No,6
+11187,Employee_1186,Female,33,Marketing,Bachelors,Life Sciences,Assistant,45434,26,12,3,Yes,5
+11188,Employee_1187,Female,36,Sales,PhD,Other,Assistant,225119,9,11,3,No,4
+11189,Employee_1188,Female,47,Marketing,PhD,Marketing,Assistant,275754,28,8,4,Yes,7
+11190,Employee_1189,Female,47,HR,PhD,Medical,Manager,113555,2,0,4,No,2
+11191,Employee_1190,Female,53,Sales,Bachelors,Marketing,Engineer,158379,18,18,2,Yes,5
+11192,Employee_1191,Male,31,Marketing,PhD,Other,Assistant,246992,2,10,1,Yes,4
+11193,Employee_1192,Male,37,Finance,PhD,Technical Degree,Analyst,269511,21,18,3,Yes,7
+11194,Employee_1193,Male,28,Sales,Bachelors,Human Resources,Executive,206806,13,17,1,No,3
+11195,Employee_1194,Male,38,IT,High School,Technical Degree,Manager,98803,7,11,2,No,7
+11196,Employee_1195,Female,44,IT,Masters,Technical Degree,Manager,254448,26,0,5,No,9
+11197,Employee_1196,Female,47,IT,High School,Medical,Assistant,205251,22,18,5,Yes,1
+11198,Employee_1197,Female,42,Finance,PhD,Other,Analyst,232514,29,19,3,No,8
+11199,Employee_1198,Female,43,IT,Bachelors,Other,Executive,275404,3,16,4,Yes,8
+11200,Employee_1199,Male,28,HR,Masters,Life Sciences,Assistant,147961,26,4,4,No,9
+11201,Employee_1200,Female,35,Sales,Masters,Other,Coordinator,47297,27,2,3,No,9
+11202,Employee_1201,Male,36,Finance,Bachelors,Marketing,Analyst,294155,19,1,5,No,5
+11203,Employee_1202,Female,28,Marketing,Masters,Other,Engineer,150234,10,2,4,No,3
+11204,Employee_1203,Female,30,HR,High School,Technical Degree,Executive,74014,25,7,1,No,3
+11205,Employee_1204,Male,29,Finance,PhD,Other,Analyst,273166,10,15,3,No,5
+11206,Employee_1205,Male,44,Sales,Masters,Medical,Engineer,208570,26,5,4,No,4
+11207,Employee_1206,Male,50,Operations,Bachelors,Human Resources,Executive,288864,29,12,3,No,5
+11208,Employee_1207,Male,39,HR,Masters,Human Resources,Analyst,238559,10,15,2,No,6
+11209,Employee_1208,Male,52,IT,High School,Medical,Coordinator,121575,1,15,4,Yes,6
+11210,Employee_1209,Female,51,IT,High School,Medical,Executive,125040,29,2,4,No,8
+11211,Employee_1210,Male,56,Sales,Masters,Technical Degree,Executive,178510,16,12,4,No,7
+11212,Employee_1211,Female,39,Operations,Bachelors,Other,Assistant,209587,8,13,3,No,5
+11213,Employee_1212,Female,38,Operations,Masters,Technical Degree,Manager,35744,27,7,4,No,5
+11214,Employee_1213,Male,35,Finance,Bachelors,Life Sciences,Engineer,244892,27,11,3,No,4
+11215,Employee_1214,Female,52,Operations,Masters,Technical Degree,Assistant,180871,1,7,1,No,0
+11216,Employee_1215,Female,45,Marketing,High School,Life Sciences,Manager,254834,28,8,5,No,8
+11217,Employee_1216,Female,56,IT,Bachelors,Other,Executive,150906,23,0,5,No,8
+11218,Employee_1217,Male,55,HR,Masters,Life Sciences,Coordinator,231260,14,5,3,No,8
+11219,Employee_1218,Male,24,IT,Bachelors,Marketing,Engineer,250931,15,18,5,Yes,7
+11220,Employee_1219,Male,58,Marketing,Bachelors,Human Resources,Executive,283593,24,10,2,No,9
+11221,Employee_1220,Female,47,HR,High School,Life Sciences,Coordinator,268746,3,10,5,No,2
+11222,Employee_1221,Female,44,Sales,Masters,Technical Degree,Engineer,37597,7,12,4,No,0
+11223,Employee_1222,Female,36,IT,Bachelors,Marketing,Engineer,233199,8,10,5,No,7
+11224,Employee_1223,Male,25,Finance,PhD,Human Resources,Assistant,238434,25,17,4,No,6
+11225,Employee_1224,Female,50,Operations,Bachelors,Human Resources,Engineer,187489,25,14,4,No,4
+11226,Employee_1225,Male,43,HR,High School,Marketing,Assistant,145598,4,0,2,No,9
+11227,Employee_1226,Female,46,Marketing,High School,Medical,Manager,280100,15,6,4,No,6
+11228,Employee_1227,Female,34,Operations,Masters,Technical Degree,Manager,288589,12,12,3,Yes,9
+11229,Employee_1228,Male,39,Operations,High School,Life Sciences,Engineer,214233,29,11,4,Yes,3
+11230,Employee_1229,Female,54,Sales,High School,Human Resources,Engineer,282388,6,17,5,No,8
+11231,Employee_1230,Female,37,IT,Bachelors,Other,Engineer,163241,25,18,4,No,9
+11232,Employee_1231,Female,23,HR,High School,Life Sciences,Executive,245164,19,14,4,Yes,1
+11233,Employee_1232,Female,56,Operations,Bachelors,Medical,Engineer,183124,16,7,5,No,8
+11234,Employee_1233,Female,55,HR,Bachelors,Technical Degree,Engineer,234923,2,18,3,No,8
+11235,Employee_1234,Female,51,Finance,High School,Life Sciences,Executive,38036,4,9,3,No,4
+11236,Employee_1235,Male,34,Sales,PhD,Marketing,Analyst,61778,18,6,4,No,0
+11237,Employee_1236,Male,34,HR,High School,Medical,Engineer,184245,11,17,4,No,6
+11238,Employee_1237,Male,39,Finance,PhD,Human Resources,Engineer,191475,28,15,4,No,9
+11239,Employee_1238,Male,53,HR,High School,Other,Manager,232747,26,19,2,No,9
+11240,Employee_1239,Male,53,Finance,Bachelors,Human Resources,Executive,48800,6,5,3,No,3
+11241,Employee_1240,Male,56,IT,PhD,Life Sciences,Coordinator,261312,27,8,4,No,8
+11242,Employee_1241,Female,50,Finance,PhD,Marketing,Executive,89500,8,12,3,Yes,5
+11243,Employee_1242,Male,50,IT,Masters,Human Resources,Analyst,197647,27,7,5,No,2
+11244,Employee_1243,Male,37,Marketing,Masters,Other,Manager,266527,5,15,2,No,5
+11245,Employee_1244,Male,31,HR,PhD,Marketing,Analyst,140659,28,12,2,No,9
+11246,Employee_1245,Female,51,Operations,Bachelors,Human Resources,Coordinator,57716,25,12,2,Yes,5
+11247,Employee_1246,Male,46,Marketing,Masters,Marketing,Executive,32352,16,16,5,Yes,4
+11248,Employee_1247,Female,41,HR,Masters,Marketing,Manager,163004,15,19,3,No,1
+11249,Employee_1248,Female,26,Sales,Bachelors,Technical Degree,Assistant,38556,22,4,4,No,9
+11250,Employee_1249,Female,22,IT,Masters,Other,Analyst,291973,2,16,4,No,9
+11251,Employee_1250,Female,51,HR,High School,Life Sciences,Engineer,166570,20,8,4,No,1
+11252,Employee_1251,Male,24,IT,PhD,Other,Analyst,237190,25,1,1,No,6
+11253,Employee_1252,Female,35,Operations,Bachelors,Medical,Executive,80098,3,17,2,No,1
+11254,Employee_1253,Female,51,Operations,Masters,Life Sciences,Executive,170641,9,8,2,No,5
+11255,Employee_1254,Female,25,Operations,Bachelors,Marketing,Analyst,277199,4,5,3,No,4
+11256,Employee_1255,Male,39,Sales,Bachelors,Medical,Coordinator,156060,20,10,4,No,3
+11257,Employee_1256,Female,58,Finance,Bachelors,Other,Engineer,217954,21,5,2,Yes,6
+11258,Employee_1257,Female,46,Operations,Masters,Technical Degree,Analyst,231465,29,5,2,No,7
+11259,Employee_1258,Male,22,Marketing,PhD,Human Resources,Analyst,160544,9,12,3,No,3
+11260,Employee_1259,Male,36,Sales,Bachelors,Human Resources,Engineer,30340,11,10,5,No,0
+11261,Employee_1260,Male,30,Finance,High School,Life Sciences,Executive,205021,9,13,5,No,0
+11262,Employee_1261,Male,36,HR,High School,Other,Coordinator,112302,28,1,2,No,0
+11263,Employee_1262,Male,45,IT,PhD,Human Resources,Assistant,252740,12,7,4,No,0
+11264,Employee_1263,Female,25,Sales,PhD,Life Sciences,Executive,30138,10,2,4,No,4
+11265,Employee_1264,Male,33,Operations,High School,Other,Assistant,149619,21,2,4,No,3
+11266,Employee_1265,Female,58,Marketing,Masters,Human Resources,Assistant,129931,15,0,4,No,8
+11267,Employee_1266,Female,58,Sales,Masters,Other,Assistant,186951,7,18,3,No,2
+11268,Employee_1267,Male,27,Operations,High School,Life Sciences,Engineer,67772,7,17,1,No,6
+11269,Employee_1268,Male,45,Operations,PhD,Marketing,Assistant,88478,26,16,5,No,7
+11270,Employee_1269,Male,32,Finance,Bachelors,Technical Degree,Manager,56762,24,19,4,Yes,5
+11271,Employee_1270,Male,34,Marketing,Masters,Marketing,Manager,174355,7,12,4,No,9
+11272,Employee_1271,Female,55,IT,Bachelors,Medical,Manager,224994,12,2,1,No,0
+11273,Employee_1272,Male,46,Operations,Masters,Technical Degree,Analyst,200492,26,0,3,No,7
+11274,Employee_1273,Male,28,Sales,PhD,Life Sciences,Assistant,104965,1,3,2,No,9
+11275,Employee_1274,Male,25,Sales,Bachelors,Human Resources,Analyst,207912,29,12,2,No,2
+11276,Employee_1275,Male,29,Sales,Bachelors,Medical,Assistant,205767,29,16,4,No,7
+11277,Employee_1276,Male,41,Marketing,Masters,Other,Engineer,266281,11,10,1,No,3
+11278,Employee_1277,Female,50,Sales,High School,Medical,Analyst,114754,9,1,5,No,7
+11279,Employee_1278,Female,31,Finance,High School,Life Sciences,Engineer,107988,11,15,5,No,0
+11280,Employee_1279,Female,55,IT,PhD,Marketing,Coordinator,180023,10,1,2,No,2
+11281,Employee_1280,Male,47,Operations,Bachelors,Other,Engineer,162379,14,18,4,No,5
+11282,Employee_1281,Male,24,HR,Masters,Technical Degree,Assistant,110388,15,18,3,No,8
+11283,Employee_1282,Female,27,HR,Masters,Other,Analyst,269779,16,15,4,No,1
+11284,Employee_1283,Male,26,HR,PhD,Medical,Assistant,236846,25,18,3,Yes,0
+11285,Employee_1284,Female,26,Marketing,High School,Human Resources,Executive,200047,1,8,4,No,9
+11286,Employee_1285,Female,44,Marketing,High School,Medical,Coordinator,162212,17,0,4,No,2
+11287,Employee_1286,Female,30,Marketing,High School,Marketing,Assistant,293852,11,9,4,No,3
+11288,Employee_1287,Female,56,HR,Bachelors,Medical,Coordinator,106021,18,18,2,No,4
+11289,Employee_1288,Male,41,HR,Bachelors,Human Resources,Manager,189380,25,0,3,Yes,2
+11290,Employee_1289,Female,56,Sales,Bachelors,Medical,Coordinator,74789,22,1,2,No,9
+11291,Employee_1290,Male,39,HR,Masters,Life Sciences,Executive,56086,17,15,1,No,1
+11292,Employee_1291,Male,38,Marketing,Bachelors,Marketing,Coordinator,37684,29,11,4,No,1
+11293,Employee_1292,Female,45,Finance,Bachelors,Marketing,Analyst,121088,16,7,4,Yes,6
+11294,Employee_1293,Female,24,Sales,PhD,Technical Degree,Engineer,76099,29,17,2,No,8
+11295,Employee_1294,Male,53,Sales,Bachelors,Life Sciences,Executive,96093,5,1,5,No,9
+11296,Employee_1295,Female,56,IT,Masters,Human Resources,Executive,190761,24,12,2,No,1
+11297,Employee_1296,Female,59,IT,PhD,Human Resources,Engineer,43893,14,5,3,No,6
+11298,Employee_1297,Male,34,Finance,Bachelors,Technical Degree,Coordinator,96418,2,5,4,No,6
+11299,Employee_1298,Male,46,Operations,High School,Medical,Analyst,155074,5,8,5,No,6
+11300,Employee_1299,Female,30,HR,High School,Technical Degree,Analyst,160351,2,15,2,No,2
+11301,Employee_1300,Female,25,HR,Masters,Human Resources,Executive,221083,29,10,5,Yes,6
+11302,Employee_1301,Female,35,HR,Masters,Other,Executive,68635,28,6,1,Yes,0
+11303,Employee_1302,Female,58,Sales,PhD,Human Resources,Manager,125071,0,9,3,No,9
+11304,Employee_1303,Female,55,Sales,Masters,Other,Analyst,102805,29,9,2,No,0
+11305,Employee_1304,Female,32,Marketing,High School,Life Sciences,Manager,294598,12,19,4,No,4
+11306,Employee_1305,Female,24,Marketing,High School,Other,Assistant,212170,27,17,3,No,1
+11307,Employee_1306,Female,49,Marketing,High School,Marketing,Manager,223226,20,19,5,Yes,8
+11308,Employee_1307,Male,50,Sales,High School,Life Sciences,Engineer,174063,25,8,3,Yes,6
+11309,Employee_1308,Male,30,Operations,PhD,Other,Coordinator,98344,13,14,5,No,3
+11310,Employee_1309,Male,24,HR,Masters,Medical,Executive,66593,12,3,5,No,3
+11311,Employee_1310,Male,46,Sales,High School,Other,Manager,66304,26,7,2,No,1
+11312,Employee_1311,Male,55,HR,Bachelors,Life Sciences,Analyst,216292,3,8,2,Yes,4
+11313,Employee_1312,Female,33,IT,PhD,Medical,Manager,143613,6,12,2,No,3
+11314,Employee_1313,Male,30,Finance,High School,Human Resources,Analyst,230410,21,8,2,No,0
+11315,Employee_1314,Male,36,Marketing,Bachelors,Marketing,Assistant,48354,9,3,5,No,7
+11316,Employee_1315,Male,46,HR,High School,Other,Manager,36142,6,16,3,No,2
+11317,Employee_1316,Male,26,Operations,Masters,Technical Degree,Executive,213043,20,15,4,No,5
+11318,Employee_1317,Female,32,Sales,PhD,Technical Degree,Engineer,214482,14,14,2,No,3
+11319,Employee_1318,Male,55,IT,Bachelors,Medical,Assistant,180575,14,2,5,No,8
+11320,Employee_1319,Female,45,IT,High School,Other,Assistant,155438,3,19,5,Yes,6
+11321,Employee_1320,Female,36,Marketing,Bachelors,Technical Degree,Executive,78456,22,4,5,No,8
+11322,Employee_1321,Female,59,HR,Masters,Life Sciences,Analyst,130167,22,4,4,No,9
+11323,Employee_1322,Male,29,IT,High School,Marketing,Manager,294528,5,19,2,No,2
+11324,Employee_1323,Male,26,Marketing,PhD,Marketing,Analyst,223392,23,14,4,No,0
+11325,Employee_1324,Female,47,Sales,High School,Technical Degree,Executive,132239,19,17,4,No,4
+11326,Employee_1325,Male,39,Sales,Masters,Medical,Manager,141431,25,14,4,Yes,2
+11327,Employee_1326,Male,27,Marketing,PhD,Life Sciences,Executive,70510,4,1,2,No,5
+11328,Employee_1327,Male,58,Operations,Bachelors,Other,Engineer,210005,19,12,4,No,7
+11329,Employee_1328,Female,34,Sales,Bachelors,Medical,Coordinator,151668,11,3,3,No,3
+11330,Employee_1329,Female,49,Marketing,PhD,Other,Engineer,272700,0,9,5,No,4
+11331,Employee_1330,Female,26,IT,Masters,Technical Degree,Assistant,54045,27,12,3,No,4
+11332,Employee_1331,Male,34,Finance,Bachelors,Marketing,Engineer,211948,7,9,2,No,3
+11333,Employee_1332,Male,38,Finance,Bachelors,Marketing,Assistant,120102,0,8,5,No,3
+11334,Employee_1333,Male,53,Finance,PhD,Technical Degree,Assistant,129441,4,7,4,No,3
+11335,Employee_1334,Female,50,HR,Masters,Medical,Manager,188175,21,2,5,Yes,3
+11336,Employee_1335,Male,24,Marketing,High School,Technical Degree,Manager,279877,5,15,4,Yes,3
+11337,Employee_1336,Male,55,Sales,Masters,Human Resources,Manager,166917,28,13,4,No,4
+11338,Employee_1337,Male,48,Sales,Masters,Other,Analyst,247770,20,8,2,No,1
+11339,Employee_1338,Female,34,Operations,Masters,Marketing,Coordinator,148325,2,10,1,No,1
+11340,Employee_1339,Male,54,IT,Masters,Medical,Manager,49337,14,2,5,Yes,8
+11341,Employee_1340,Female,27,Sales,Masters,Life Sciences,Manager,183385,4,4,2,No,1
+11342,Employee_1341,Male,45,Operations,Masters,Human Resources,Coordinator,292420,27,9,4,No,5
+11343,Employee_1342,Female,40,Marketing,Bachelors,Medical,Executive,173016,23,12,3,No,1
+11344,Employee_1343,Male,37,HR,Bachelors,Medical,Analyst,111442,13,3,3,No,4
+11345,Employee_1344,Female,49,Sales,Masters,Marketing,Assistant,79847,17,12,4,No,3
+11346,Employee_1345,Male,54,IT,PhD,Other,Manager,88653,15,11,4,No,6
+11347,Employee_1346,Female,34,HR,Bachelors,Human Resources,Engineer,247144,5,4,4,No,6
+11348,Employee_1347,Female,46,Finance,Bachelors,Life Sciences,Assistant,283661,24,9,2,No,5
+11349,Employee_1348,Male,57,Marketing,Bachelors,Marketing,Analyst,107842,23,8,4,No,9
+11350,Employee_1349,Male,48,IT,Bachelors,Marketing,Executive,114761,13,19,5,Yes,4
+11351,Employee_1350,Male,59,Sales,High School,Life Sciences,Manager,171958,26,6,3,No,0
+11352,Employee_1351,Female,28,Marketing,PhD,Other,Engineer,193864,23,1,2,No,2
+11353,Employee_1352,Female,26,HR,PhD,Human Resources,Analyst,286910,7,6,5,No,8
+11354,Employee_1353,Female,52,HR,Bachelors,Medical,Assistant,150356,28,7,2,No,0
+11355,Employee_1354,Female,44,HR,Bachelors,Other,Assistant,247228,6,6,3,No,4
+11356,Employee_1355,Male,31,HR,High School,Other,Manager,72727,7,13,3,No,1
+11357,Employee_1356,Male,53,Operations,PhD,Human Resources,Executive,38068,12,18,3,No,3
+11358,Employee_1357,Female,51,Sales,PhD,Technical Degree,Engineer,146923,5,4,4,No,0
+11359,Employee_1358,Female,52,Finance,Bachelors,Life Sciences,Coordinator,41390,17,17,3,No,2
+11360,Employee_1359,Female,39,HR,High School,Medical,Assistant,136752,1,19,4,Yes,9
+11361,Employee_1360,Male,57,HR,Bachelors,Life Sciences,Executive,176110,7,11,3,Yes,6
+11362,Employee_1361,Female,23,IT,Bachelors,Medical,Coordinator,254790,10,16,4,No,9
+11363,Employee_1362,Female,35,Finance,High School,Life Sciences,Engineer,51281,0,12,4,No,2
+11364,Employee_1363,Male,34,Sales,High School,Medical,Executive,84189,21,1,3,No,3
+11365,Employee_1364,Female,50,HR,Bachelors,Medical,Analyst,292093,28,12,3,No,1
+11366,Employee_1365,Male,33,Sales,Bachelors,Technical Degree,Analyst,152115,5,6,4,No,2
+11367,Employee_1366,Female,23,HR,Masters,Life Sciences,Manager,38605,15,9,4,No,8
+11368,Employee_1367,Male,53,Operations,Bachelors,Medical,Assistant,279415,26,5,4,No,2
+11369,Employee_1368,Male,34,Finance,High School,Marketing,Manager,185394,19,2,5,Yes,4
+11370,Employee_1369,Female,48,Finance,Masters,Marketing,Engineer,71869,11,2,3,No,1
+11371,Employee_1370,Male,38,Marketing,Bachelors,Technical Degree,Analyst,62955,10,17,4,Yes,3
+11372,Employee_1371,Male,52,Marketing,Bachelors,Life Sciences,Assistant,91388,28,10,3,No,6
+11373,Employee_1372,Male,55,Operations,Bachelors,Medical,Assistant,271324,26,19,4,No,6
+11374,Employee_1373,Male,45,Marketing,Bachelors,Other,Analyst,40207,28,4,4,No,2
+11375,Employee_1374,Male,56,IT,High School,Marketing,Executive,248401,9,18,4,No,4
+11376,Employee_1375,Female,27,Finance,PhD,Marketing,Engineer,189292,2,18,4,No,0
+11377,Employee_1376,Male,40,IT,PhD,Life Sciences,Executive,235157,12,14,3,No,9
+11378,Employee_1377,Female,51,Operations,PhD,Marketing,Analyst,52031,26,15,1,No,9
+11379,Employee_1378,Male,28,Finance,Masters,Medical,Engineer,101312,2,8,5,No,9
+11380,Employee_1379,Male,31,IT,Bachelors,Life Sciences,Manager,89766,14,3,1,No,0
+11381,Employee_1380,Female,53,HR,Masters,Human Resources,Analyst,173521,15,14,4,Yes,4
+11382,Employee_1381,Female,55,HR,PhD,Other,Executive,217771,28,11,5,No,9
+11383,Employee_1382,Female,49,HR,Bachelors,Medical,Coordinator,267199,12,2,5,No,8
+11384,Employee_1383,Female,36,Operations,PhD,Human Resources,Engineer,266731,16,13,1,No,0
+11385,Employee_1384,Male,51,Marketing,High School,Marketing,Analyst,265841,2,16,3,Yes,0
+11386,Employee_1385,Male,58,Sales,Bachelors,Medical,Coordinator,141041,19,18,5,No,3
+11387,Employee_1386,Female,50,Operations,Masters,Other,Engineer,146185,10,5,5,No,3
+11388,Employee_1387,Female,43,Finance,Masters,Other,Manager,207164,26,3,5,No,1
+11389,Employee_1388,Male,25,Marketing,Bachelors,Technical Degree,Analyst,40350,20,6,3,No,8
+11390,Employee_1389,Female,41,Operations,Masters,Life Sciences,Executive,257230,18,18,2,Yes,8
+11391,Employee_1390,Male,53,Operations,High School,Technical Degree,Executive,291570,21,16,5,No,1
+11392,Employee_1391,Male,57,Sales,High School,Other,Manager,98487,10,15,5,Yes,8
+11393,Employee_1392,Male,25,Finance,High School,Marketing,Assistant,178694,29,14,5,No,5
+11394,Employee_1393,Male,48,HR,Masters,Human Resources,Engineer,153853,27,7,3,No,7
+11395,Employee_1394,Female,38,Marketing,High School,Human Resources,Manager,265062,15,18,5,No,9
+11396,Employee_1395,Female,33,Operations,High School,Other,Assistant,263077,20,7,1,No,3
+11397,Employee_1396,Female,43,Sales,Bachelors,Life Sciences,Coordinator,53782,2,17,2,No,1
+11398,Employee_1397,Female,38,Operations,Masters,Technical Degree,Coordinator,159936,21,15,5,No,1
+11399,Employee_1398,Male,31,HR,Masters,Medical,Executive,183245,5,19,4,No,8
+11400,Employee_1399,Male,22,Operations,High School,Marketing,Analyst,152258,13,18,3,Yes,0
+11401,Employee_1400,Male,43,Marketing,High School,Other,Analyst,141668,23,9,1,No,6
+11402,Employee_1401,Male,47,IT,Bachelors,Marketing,Coordinator,168262,17,16,5,No,2
+11403,Employee_1402,Male,39,Operations,Bachelors,Life Sciences,Engineer,68333,16,12,3,No,2
+11404,Employee_1403,Female,35,Operations,Bachelors,Life Sciences,Executive,241977,3,12,4,No,1
+11405,Employee_1404,Male,50,HR,PhD,Technical Degree,Engineer,119571,22,6,4,No,9
+11406,Employee_1405,Male,33,Finance,PhD,Technical Degree,Engineer,150263,14,9,2,No,5
+11407,Employee_1406,Female,57,Marketing,Bachelors,Medical,Coordinator,55235,10,1,5,No,9
+11408,Employee_1407,Female,56,Marketing,PhD,Other,Assistant,30159,25,3,5,No,1
+11409,Employee_1408,Male,33,Operations,Bachelors,Medical,Analyst,173217,2,5,1,Yes,9
+11410,Employee_1409,Female,28,Sales,PhD,Life Sciences,Assistant,192993,2,17,3,No,3
+11411,Employee_1410,Male,50,Marketing,PhD,Technical Degree,Coordinator,177309,15,5,2,Yes,9
+11412,Employee_1411,Male,32,Operations,High School,Marketing,Assistant,137507,4,16,2,No,8
+11413,Employee_1412,Male,54,Finance,PhD,Human Resources,Executive,44743,20,13,4,No,8
+11414,Employee_1413,Female,27,Finance,High School,Life Sciences,Manager,258174,28,10,5,No,5
+11415,Employee_1414,Male,36,HR,Bachelors,Technical Degree,Executive,76101,9,18,2,No,3
+11416,Employee_1415,Male,53,Operations,High School,Medical,Engineer,272717,18,1,2,No,6
+11417,Employee_1416,Female,32,Operations,PhD,Medical,Manager,151534,24,2,4,No,0
+11418,Employee_1417,Male,44,IT,PhD,Technical Degree,Analyst,260604,3,10,4,No,3
+11419,Employee_1418,Female,47,HR,PhD,Other,Manager,217450,28,5,4,No,4
+11420,Employee_1419,Male,55,IT,High School,Other,Analyst,232193,28,13,3,No,7
+11421,Employee_1420,Female,55,Sales,PhD,Marketing,Analyst,265422,18,18,3,No,1
+11422,Employee_1421,Female,50,HR,High School,Life Sciences,Assistant,176721,10,15,3,No,4
+11423,Employee_1422,Female,25,HR,PhD,Other,Analyst,198785,1,6,4,No,5
+11424,Employee_1423,Female,38,Finance,Bachelors,Marketing,Engineer,234535,9,7,4,No,4
+11425,Employee_1424,Male,56,Sales,Masters,Marketing,Coordinator,206481,28,18,3,No,8
+11426,Employee_1425,Male,34,Operations,High School,Medical,Analyst,209838,10,19,2,No,9
+11427,Employee_1426,Female,36,HR,Bachelors,Marketing,Engineer,76154,24,15,5,No,0
+11428,Employee_1427,Female,50,Sales,PhD,Other,Analyst,299160,19,6,1,No,2
+11429,Employee_1428,Male,50,Marketing,Masters,Other,Analyst,84238,15,8,4,No,1
+11430,Employee_1429,Male,32,Operations,PhD,Life Sciences,Coordinator,119081,18,12,4,Yes,2
+11431,Employee_1430,Female,53,Operations,Bachelors,Human Resources,Executive,277644,22,0,1,No,9
+11432,Employee_1431,Male,23,HR,Masters,Marketing,Manager,229775,23,7,5,Yes,8
+11433,Employee_1432,Female,35,Sales,Bachelors,Other,Manager,92551,10,3,4,Yes,8
+11434,Employee_1433,Female,41,Finance,Bachelors,Human Resources,Manager,240695,13,2,5,No,9
+11435,Employee_1434,Female,43,Operations,Masters,Medical,Analyst,183512,1,2,4,No,1
+11436,Employee_1435,Female,32,Marketing,High School,Human Resources,Analyst,196277,22,12,5,No,2
+11437,Employee_1436,Male,48,Operations,PhD,Other,Assistant,110811,27,7,5,No,3
+11438,Employee_1437,Male,24,Operations,Masters,Marketing,Engineer,284840,4,6,4,Yes,8
+11439,Employee_1438,Female,38,Operations,Bachelors,Other,Manager,264104,26,0,4,No,2
+11440,Employee_1439,Female,49,IT,Masters,Life Sciences,Manager,49008,4,15,3,No,6
+11441,Employee_1440,Male,50,Operations,High School,Technical Degree,Analyst,232346,18,5,2,No,2
+11442,Employee_1441,Female,42,IT,PhD,Life Sciences,Analyst,62402,20,6,5,Yes,6
+11443,Employee_1442,Male,37,Sales,PhD,Medical,Coordinator,214456,11,11,4,No,6
+11444,Employee_1443,Female,58,HR,High School,Marketing,Engineer,289994,17,8,5,No,8
+11445,Employee_1444,Female,41,Sales,High School,Other,Executive,166643,3,10,2,No,1
+11446,Employee_1445,Female,27,Sales,Masters,Other,Assistant,143550,21,9,3,No,5
+11447,Employee_1446,Male,40,Operations,Bachelors,Life Sciences,Analyst,121218,16,0,4,Yes,8
+11448,Employee_1447,Female,26,Marketing,High School,Other,Manager,163296,9,17,3,Yes,1
+11449,Employee_1448,Male,24,Operations,Bachelors,Human Resources,Coordinator,209767,19,3,2,No,1
+11450,Employee_1449,Male,22,Finance,High School,Life Sciences,Coordinator,271060,5,4,4,No,4
+11451,Employee_1450,Male,59,HR,PhD,Marketing,Manager,270016,24,8,4,Yes,9
+11452,Employee_1451,Male,36,Operations,High School,Other,Engineer,62441,13,16,5,No,9
+11453,Employee_1452,Male,55,Marketing,High School,Marketing,Executive,268038,10,2,5,No,9
+11454,Employee_1453,Female,56,Operations,PhD,Technical Degree,Engineer,200201,10,15,4,No,7
+11455,Employee_1454,Female,46,Marketing,Bachelors,Human Resources,Manager,261324,28,4,3,No,8
+11456,Employee_1455,Female,45,HR,Masters,Human Resources,Coordinator,122122,17,15,4,No,1
+11457,Employee_1456,Female,33,Finance,Bachelors,Life Sciences,Analyst,74760,26,2,5,No,4
+11458,Employee_1457,Male,39,HR,High School,Medical,Analyst,173252,22,19,2,No,6
+11459,Employee_1458,Female,36,HR,High School,Marketing,Engineer,128538,21,14,4,Yes,5
+11460,Employee_1459,Male,37,Marketing,High School,Technical Degree,Assistant,45372,17,2,4,No,5
+11461,Employee_1460,Male,48,Sales,Masters,Life Sciences,Coordinator,251035,23,19,3,No,6
+11462,Employee_1461,Female,29,Marketing,PhD,Human Resources,Coordinator,141022,22,13,2,No,2
+11463,Employee_1462,Female,46,Operations,PhD,Other,Coordinator,84040,10,15,2,No,2
+11464,Employee_1463,Male,38,Operations,Masters,Medical,Coordinator,232440,20,16,4,No,9
+11465,Employee_1464,Male,50,IT,High School,Technical Degree,Coordinator,108356,11,19,5,No,8
+11466,Employee_1465,Male,29,Operations,Masters,Marketing,Manager,297986,4,17,1,No,7
+11467,Employee_1466,Female,36,Operations,Masters,Life Sciences,Manager,183077,22,17,3,No,4
+11468,Employee_1467,Female,48,Sales,PhD,Life Sciences,Coordinator,84575,8,13,4,Yes,5
+11469,Employee_1468,Female,28,Finance,High School,Medical,Engineer,180043,26,17,2,Yes,9
+11470,Employee_1469,Male,24,Operations,High School,Other,Analyst,96914,24,14,4,No,0
+11471,Employee_1470,Female,50,Operations,PhD,Other,Executive,279134,8,14,4,No,9
+11472,Employee_1471,Male,45,HR,PhD,Marketing,Executive,97055,21,5,3,No,0
+11473,Employee_1472,Male,24,Finance,PhD,Technical Degree,Assistant,117697,9,14,4,No,3
+11474,Employee_1473,Female,41,Operations,PhD,Other,Coordinator,136239,21,17,4,No,1
+11475,Employee_1474,Female,36,Sales,Bachelors,Marketing,Analyst,265469,18,3,1,No,6
+11476,Employee_1475,Female,46,Marketing,High School,Marketing,Manager,153106,0,7,3,Yes,1
+11477,Employee_1476,Female,51,HR,Masters,Human Resources,Assistant,297499,6,14,5,No,9
+11478,Employee_1477,Male,35,Operations,Bachelors,Medical,Analyst,32257,3,2,4,No,1
+11479,Employee_1478,Female,28,HR,High School,Life Sciences,Assistant,186044,0,14,4,Yes,4
+11480,Employee_1479,Female,38,Operations,PhD,Medical,Engineer,141715,14,12,4,No,3
+11481,Employee_1480,Female,41,Sales,Bachelors,Other,Analyst,56654,7,8,1,No,7
+11482,Employee_1481,Male,57,Marketing,Bachelors,Life Sciences,Manager,241841,11,1,3,No,3
+11483,Employee_1482,Male,30,Finance,Bachelors,Human Resources,Engineer,50808,21,7,5,No,5
+11484,Employee_1483,Female,59,Operations,Masters,Technical Degree,Coordinator,82389,21,19,1,No,4
+11485,Employee_1484,Male,43,IT,High School,Technical Degree,Coordinator,148581,17,16,3,No,1
+11486,Employee_1485,Female,23,HR,High School,Other,Coordinator,157927,14,12,3,No,7
+11487,Employee_1486,Male,45,HR,Bachelors,Technical Degree,Coordinator,64773,16,0,3,No,1
+11488,Employee_1487,Female,29,Sales,Masters,Marketing,Analyst,212240,28,1,3,No,8
+11489,Employee_1488,Male,32,HR,Bachelors,Human Resources,Manager,244764,13,14,4,No,8
+11490,Employee_1489,Male,34,Sales,PhD,Life Sciences,Executive,87505,13,11,4,No,2
+11491,Employee_1490,Female,38,Sales,PhD,Technical Degree,Assistant,48135,17,13,5,No,3
+11492,Employee_1491,Male,29,IT,Masters,Technical Degree,Manager,120887,19,1,4,Yes,7
+11493,Employee_1492,Female,42,Marketing,High School,Other,Assistant,152118,17,17,2,No,8
+11494,Employee_1493,Male,39,Operations,High School,Life Sciences,Engineer,184626,15,6,3,No,2
+11495,Employee_1494,Female,51,Operations,Bachelors,Life Sciences,Assistant,275739,0,5,4,No,4
+11496,Employee_1495,Female,39,IT,Bachelors,Medical,Assistant,92261,22,13,2,No,7
+11497,Employee_1496,Male,52,IT,Bachelors,Other,Executive,90948,26,7,4,No,2
+11498,Employee_1497,Female,59,Finance,High School,Life Sciences,Executive,270891,10,1,2,No,6
+11499,Employee_1498,Male,53,Sales,Masters,Life Sciences,Analyst,194074,14,16,4,No,7
+11500,Employee_1499,Female,32,IT,Bachelors,Medical,Executive,296357,11,4,3,No,9

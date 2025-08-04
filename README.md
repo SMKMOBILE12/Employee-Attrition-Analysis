@@ -96,8 +96,8 @@ The dataset contains employee demographic information, departmental data, educat
 
 For feedback, questions, or collaborations:
 
-Email: \[[yourname@email.com](mailto:yourname@email.com)]
-Portfolio: \[your-portfolio-link.com]
-LinkedIn: \[linkedin.com/in/yourprofile]
+Email: micahoko@gmail.com
+Portfolio: https://www.datascienceportfol.io/micahoko
+
 
 
